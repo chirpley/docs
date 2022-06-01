@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Documentation for Chirpley 
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+https://docs.chirpley.ai
 
-Read the tutorial here:
 
+How-to edit:
 https://docs.readthedocs.io/en/stable/tutorial/
