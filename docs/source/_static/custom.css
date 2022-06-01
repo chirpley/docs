@@ -4,6 +4,10 @@
 .wy-nav-side{
     background: #32323c;
 }
-.logo{
-    width: 100%;
+.logo {
+    width: 100% !important;
 }
+.wy-body-for-nav .wy-nav-content-wrap {
+    background: #ffdda6;
+}
+
