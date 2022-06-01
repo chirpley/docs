@@ -1,5 +1,5 @@
 .wy-side-nav-search, .wy-nav-top {
-    background: #f24139;
+    background: #ffdda6;
 }
 .wy-nav-side{
     background: #32323c;
@@ -8,6 +8,10 @@
     width: 100% !important;
 }
 .wy-body-for-nav {
+    background: #ffdda6;
+}
+.wy-nav-content {
+    margin: 0;
     background: #ffdda6;
 }
 @media screen and (min-width: 1100px){
