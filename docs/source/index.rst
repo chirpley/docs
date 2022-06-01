@@ -25,5 +25,3 @@ Contents
 
    Introduction
    Getting Started
-   How-to register
-   How-to Connect Channels
