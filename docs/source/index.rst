@@ -14,7 +14,7 @@ Chirpley will provide marketers with the freedom to act fast and effective, than
 Check out the :doc:`Introduction` section for further information, including
 how to :ref:`use` the platform.
 
-.. image:: path/doc-banner.jpg
+.. image:: images/doc-banner.jpg
   :width: 800
   :alt: Chirpley Documentation
   
