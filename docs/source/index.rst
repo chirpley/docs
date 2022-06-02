@@ -11,8 +11,14 @@ Welcome to Chirpley's documentation!
 
 Chirpley will provide marketers with the freedom to act fast and effective, thanks to the possibility of a 1-click marketing bomb.
 
-Check out the :doc:`introduction` section for further information, including
+Check out the :doc:`Introduction` section for further information, including
 how to :ref:`use` the platform.
+
+.. image:: path/doc-banner.jpg
+  :width: 800
+  :alt: Chirpley Documentation
+  
+  
 
 .. note::
 
