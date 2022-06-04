@@ -46,4 +46,4 @@ Complete Registration
  
 
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
-We'll be activating more markets in the upcoming weeks.
+We'll be activating more markets later this year.
