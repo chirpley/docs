@@ -1,6 +1,11 @@
 Welcome to Chirpley's documentation!
 ===================================
 
+.. image:: _static/images/doc-banner.jpg
+  :width: 600
+  :align: center
+  :alt: Chirpley Documentation
+  
 **Chirpley** (/tʃəːp liː/) 
 
 1. A little red bird which makes a short, sharp, high-pitched sound.
@@ -14,9 +19,7 @@ Chirpley will provide marketers with the freedom to act fast and effective, than
 Check out the :doc:`Introduction` section for further information, including
 how to :ref:`use` the platform.
 
-.. image:: _static/images/doc-banner.jpg
-  :width: 800
-  :alt: Chirpley Documentation
+
   
   
 
