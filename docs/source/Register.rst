@@ -39,7 +39,7 @@ After you've send the form, you'll receive a message in your email box. This inc
 Follow the link and you'll be served with some questions to complete your registration.
     
     
-    .. |logo1| image:: _static/images/register1.png
+.. |logo1| image:: _static/images/register1.png
     :scale: 60%
     :alt: Complete registration 1   
     :align: center    
@@ -49,7 +49,7 @@ Follow the link and you'll be served with some questions to complete your regist
     :alt: Complete registration 2   
     :align: center        
 
-.. table:: My table
+.. table:: Complete Registration
    :align: center
 
    +---------+---------+
