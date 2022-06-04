@@ -22,7 +22,7 @@
         background: #f2f0fa url("docs.jpg") no-repeat fixed right;
     }
 }
-.admonition-titlet {
+p.admonition-title {
     background: #f24139 !important;
 }
 a {
