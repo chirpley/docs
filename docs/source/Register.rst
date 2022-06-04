@@ -29,20 +29,19 @@ Activation
 ----------------
 
 After you've send the form, you'll receive a message in your email box. This includes a link to complete your registration.
-.. image:: _static/images/activation.png
+.. image:: _static/images/activate.png
   :width: 400
   :alt: Chirpley Activation
 
 Follow the link and you'll be served with some questions to complete your registration.
 
-.. |register1| image:: _static/images/register1.png
+   .. figure:: _static/images/register1.png
     :scale: 60%
+    :alt: Complete registration 1
 
-.. |register2| image:: _static/images/register2.png
+   .. figure:: _static/images/register2.png
     :scale: 60%
-
-.. table:: My table
-   :align: center
+    :alt: Complete registration 2
 
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
 We'll be activating more markets in the upcoming weeks.
