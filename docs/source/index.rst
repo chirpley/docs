@@ -30,4 +30,4 @@ Contents
 .. toctree::
 
    Introduction
-   Getting Started
+   Register
