@@ -40,22 +40,11 @@ Follow the link and you'll be served with some questions to complete your regist
 Complete Registration
 ------------
     
-  .. |logo1| image:: _static/images/register1.png
-    :scale: 60%
-    :alt: Complete registration 1   
-   
-
-  .. |logo2| image:: _static/images/register2.png
-    :scale: 60%
-    :alt: Complete registration 2   
-       
-
-  .. table:: Complete Registration
-   :align: center
-
-   +---------+---------+
-   | |logo1| | |logo2| |
-   +---------+---------+
+  .. image:: _static/images/register.png
+  :width: 400
+  :align: center    
+  :alt: Complete registration  
+ 
 
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
 We'll be activating more markets in the upcoming weeks.
