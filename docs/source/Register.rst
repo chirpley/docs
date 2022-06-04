@@ -42,12 +42,12 @@ Follow the link and you'll be served with some questions to complete your regist
   .. |logo1| image:: _static/images/register1.png
     :scale: 60%
     :alt: Complete registration 1   
-    :align: center    
+   
 
   .. |logo2| image:: _static/images/register2.png
     :scale: 60%
     :alt: Complete registration 2   
-    :align: center        
+       
 
   .. table:: Complete Registration
    :align: center
