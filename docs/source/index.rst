@@ -2,7 +2,7 @@ Welcome to Chirpley's documentation!
 ===================================
 
 .. image:: _static/images/doc-banner.jpg
-  :width: 600
+  :width: 800
   :align: center
   :alt: Chirpley Documentation
   
