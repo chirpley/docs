@@ -9,8 +9,6 @@ Let me take you down the rabbithole and introduce you to our ever evolving platf
 
 It all starts with the....
 
-.. _register:
-
 Registration
 ------------
 
@@ -37,7 +35,10 @@ After you've send the form, you'll receive a message in your email box. This inc
   :alt: Chirpley Activation
 
 Follow the link and you'll be served with some questions to complete your registration.
-    
+
+
+Complete Registration
+------------
     
   .. |logo1| image:: _static/images/register1.png
     :scale: 60%
