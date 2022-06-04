@@ -37,11 +37,11 @@ After you've send the form, you'll receive a message in your email box. This inc
 Follow the link and you'll be served with some questions to complete your registration.
 
    .. figure:: _static/images/register1.png
-    :scale: 30%
+  :width: 400
     :alt: Complete registration 1
 
    .. figure:: _static/images/register2.png
-    :scale: 30%
+  :width: 400
     :alt: Complete registration 2
 
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
