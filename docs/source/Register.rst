@@ -29,6 +29,7 @@ Activation
 ----------------
 
 After you've send the form, you'll receive a message in your email box. This includes a link to complete your registration.
+
 .. image:: _static/images/activate.png
   :width: 400
   :alt: Chirpley Activation
