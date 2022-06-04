@@ -19,6 +19,7 @@ This is due to strict privacy regulations in some parts of the world.
 
 .. image:: _static/images/signup.png
   :width: 400
+  :align: center  
   :alt: Chirpley Signup
 
 Just go to https://app.chirpley.ai/Account/Register in your browser of choice and fill in your emailadres and date of birth.
@@ -32,12 +33,14 @@ After you've send the form, you'll receive a message in your email box. This inc
 
 .. image:: _static/images/activate.png
   :width: 400
+  :align: center  
   :alt: Chirpley Activation
 
 Follow the link and you'll be served with some questions to complete your registration.
 
    .. figure:: _static/images/register1.png
-  :width: 400
+  :scale: 50%
+  :align: center
     :alt: Complete registration 1
 
    .. figure:: _static/images/register2.png
