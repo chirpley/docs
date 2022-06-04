@@ -4,7 +4,8 @@ Introduction
 Through Artificial Intelligence and Machine Learning, influencer and marketer will be paired to perfection, matched like never before, tailor made as nowhere else. End to end automated campaigns are data-driven, constantly refined and adapted to improve reach and impact, lifting results and effectiveness to dizzying heights.
 
 Vision
-=====
+------------
+
 .. image:: _static/images/not-alone.png
   :align: center  
   :alt: Chirpley's Vision
