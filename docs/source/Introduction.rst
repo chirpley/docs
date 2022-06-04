@@ -1,34 +1,14 @@
 Introduction
 =====
 
-.. _installation:
+Through Artificial Intelligence and Machine Learning, influencer and marketer will be paired to perfection, matched like never before, tailor made as nowhere else. End to end automated campaigns are data-driven, constantly refined and adapted to improve reach and impact, lifting results and effectiveness to dizzying heights.
 
-Installation
-------------
+Vision
+=====
+.. image:: _static/images/vision.png
+  :align: center  
+  :alt: Chirpley's Vision
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Look at the small influencers of this world. So much to give, so much to share. But so little help to make the most of it.
+These influencer are not alone anymore.
+No-one there to pave their way to success. Existing platforms lacking the technology to help them grow. Time to break down all barriers between them and the marketing community.
