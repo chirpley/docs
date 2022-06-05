@@ -54,3 +54,27 @@ Pick the Markets where your in active or where your interest lies.
 
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
 We'll be activating more markets later this year.
+
+Connect your Socialchannels
+------------
+
+Before you can make use of the platform as influencer or brand, you'll need to connect at least one social-channel.
+At the moment of writing only Twitter is activated, eventually this will change later this year once development progresses.
+
+On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are.
+In each role you can connect different social-channels and choose different market-niches.
+
+.. image:: _static/images/profile.png
+  :width: 800
+  :align: center  
+  :alt: Complete Registration 
+
+Click on the Twitter icon and you'll be presented with a questionairy to connect your twitteraccount to your Chirpley-account.
+For influencers a twitter-account needs to have a minumum of 100 followers and atleast 20 own tweets.(retweets and replies are excluded) to be able to connect your Twitter)
+For brands and marketeers there are no limits.
+
+
+Profile Settings
+---------------
+
+Please take your time to upload a profile-image in the settings on the right. This will help you get noticed by marketers. 
