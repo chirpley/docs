@@ -72,21 +72,38 @@ In each role you can connect different social-channels and choose different mark
 
 Click on the Twitter icon and you'll be presented with a questionairy to connect your twitteraccount to your Chirpley-account.
 
-.. |connect1| image:: connect1.png
+.. |connect1| image:: influencer-step1a.png
     :scale: 60%
 
-.. |connect2| image:: connect2.png
+.. |connect2| image:: influencer-step1b.png
     :scale: 60%
 
-.. |connect3| image:: connect2.png
-    :scale: 60%    
+.. |connect3| image:: influencer-step2.png
+    :scale: 60%
+
+.. |connect4| image:: influencer-step3.png
+    :scale: 60%  
+
+.. |connect5| image:: influencer-step4.png
+    :scale: 60%
+
+.. |connect6| image:: influencer-step5.png
+    :scale: 60%
+
+.. |connect7| image:: influencer-step6.png
+    :scale: 60%     
+
+.. |connect8| image:: influencer-step7.png
+    :scale: 60% 
 
 .. table:: Connect
    :align: center
 
-   +------------+------------+------------+
-   | |connect1| | |connect2| | |connect2| |
-   +------------+------------+------------+
+   +------------+------------+------------+------------+
+   | |connect1| | |connect2| | |connect3| | |connect4| |
+   +------------+------------+------------+------------+
+   | |connect5| | |connect6| | |connect7| | |connect8| |
+   +------------+------------+------------+------------+
 
 For influencers a twitter-account needs to have a minumum of 100 followers and atleast 20 own tweets.(retweets and replies are excluded) to be able to connect your Twitter)
 
