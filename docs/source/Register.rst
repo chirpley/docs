@@ -40,6 +40,12 @@ Follow the link and you'll be served with some questions to complete your regist
 
 Complete Registration
 ------------
+
+Fill-in a username of your choice and choose a password.
+Passwords must have at least one one digit ('0'-'9') and one non-alphanumeric character.
+
+Pick the Markets where your in active or where your interest lies.
+
 .. image:: _static/images/register.png
   :width: 400
   :align: center  
