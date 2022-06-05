@@ -27,12 +27,13 @@ Before you hit the red Register-button you can choose to be updated on news and 
 Activation
 ----------------
 
-After you've send the form, you'll receive a message in your email box. This includes a link to complete your registration.
+After you've send the form, you'll receive a message in your email box (If you can't find it in your imbox, please check your spambox). This includes a link to complete your registration.
 
 .. image:: _static/images/activate.png
   :width: 400
   :align: center  
   :alt: Chirpley Activation
+  
 
 Follow the link and you'll be served with some questions to complete your registration.
 
