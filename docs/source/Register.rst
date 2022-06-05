@@ -72,28 +72,28 @@ In each role you can connect different social-channels and choose different mark
 
 Click on the Twitter icon and you'll be presented with a questionairy to connect your twitteraccount to your Chirpley-account.
 
-.. |connect1| image:: influencer-step1a.png
+.. |connect1| image:: _static/images/influencer-step1a.png
     :scale: 30%
 
-.. |connect2| image:: influencer-step1b.png
+.. |connect2| image:: _static/images/influencer-step1b.png
     :scale: 30%
 
-.. |connect3| image:: influencer-step2.png
+.. |connect3| image:: _static/images/influencer-step2.png
     :scale: 30%
 
-.. |connect4| image:: influencer-step3.png
+.. |connect4| image:: _static/images/influencer-step3.png
     :scale: 30%  
 
-.. |connect5| image:: influencer-step4.png
+.. |connect5| image:: _static/images/influencer-step4.png
     :scale: 30%
 
-.. |connect6| image:: influencer-step5.png
+.. |connect6| image:: _static/images/influencer-step5.png
     :scale: 30%
 
-.. |connect7| image:: influencer-step6.png
+.. |connect7| image:: _static/images/influencer-step6.png
     :scale: 30%     
 
-.. |connect8| image:: influencer-step7.png
+.. |connect8| image:: _static/images/influencer-step7.png
     :scale: 30% 
 
 .. table:: Connect
