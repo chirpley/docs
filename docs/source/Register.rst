@@ -97,7 +97,7 @@ Click on the Twitter icon and you'll be presented with a questionairy to connect
 .. |connect8| image:: _static/images/influencer-step7.png
     :scale: 30% 
 
-.. table:: Connect
+.. table:: Connect Twitter
    :align: center
 
    +------------+------------+------------+------------+
@@ -106,9 +106,23 @@ Click on the Twitter icon and you'll be presented with a questionairy to connect
    | |connect5| | |connect6| | |connect7| | |connect8| |
    +------------+------------+------------+------------+
 
-For influencers a twitter-account needs to have a minumum of 100 followers and atleast 20 own tweets.(retweets and replies are excluded) to be able to connect your Twitter)
+Connect as Influencer
+------------
 
-For brands and marketeers there are no limits.
+For influencers a twitter-account needs to have a minumum of 100 followers and atleast 20 own tweets.(retweets and replies are excluded) to be able to connect your Twitter)
+The moment you've connected your social-media account with the platform, our automated system calculates the value of your account based the content.
+In step 6 of the questionairy you'll find the results of this calculation and the pricings your can receive for your selected services.
+You're able to adjust these values by 10%.
+
+Connect as Brand
+------------
+
+Twitter-accounts of brands and marketeers aren't limited and the questionairy resembles that of influencers accept for the service and niche part.
+These settings are intergrated in the createcampaign-flow.
+
+.. note::
+
+To change these setting in the future you can just click the Social-media icon in your profile (https://app.chirpley.ai/Account/Profile) and edit them thereafter.
 
 
 Profile Settings
