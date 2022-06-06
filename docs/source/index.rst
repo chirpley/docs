@@ -32,5 +32,8 @@ Contents
 
 .. toctree::
 
-   Introduction
-   Register
+   introduction
+   register
+   asbrand
+   asinfluencer
+   wallet
