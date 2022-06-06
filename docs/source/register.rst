@@ -56,10 +56,11 @@ Pick the Markets where your in active or where your interest lies.
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
 We'll be activating more markets later this year.
 
-Connect your Socialchannels
+Setup your Profile
 ------------
 
 Before you can make use of the platform as influencer or brand, you'll need to connect at least one social-channel.
+All your account-settings as brand of influencer can be set and edited from your profile-page.(https://app.chirpley.ai/Account/Profile)
 At the moment of writing only Twitter is activated, eventually this will change later this year once development progresses.
 
 On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are.
