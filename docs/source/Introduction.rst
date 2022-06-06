@@ -1,7 +1,9 @@
 Introduction
 =====
 
-Through Artificial Intelligence and Machine Learning, influencer and marketer will be paired to perfection, matched like never before, tailor made as nowhere else. End to end automated campaigns are data-driven, constantly refined and adapted to improve reach and impact, lifting results and effectiveness to dizzying heights.
+Chirpley is a Web-3 based influencer marketplace, enabling end-to-end automated influencing campaigns through Artificial Intelligence and Machine Learning.
+It’s a cutting-edge new influencer platform using Artificial Intelligence, Machine Learning, and Blockchain technology that is bound to happen.
+Chirpley has been set up as an automated platform that is exclusively dedicated to nano- and micro-influencers. And exactly that is where the future of influencer marketing lies, much more than with the mega-influencers with zillions of followers.
 
 Vision
 ------------
