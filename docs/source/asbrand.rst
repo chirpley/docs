@@ -14,8 +14,7 @@ This will take you to the page as seen below where you will be presented with a 
 .. image:: _static/images/new-campaign.png
   :width: 600
   :align: center  
-  :alt: Create Campaign
-  :class: with-shadow  
+  :alt: Create Campaign 
 
 Name your Campaign
 ~~~~~~~~~~~~
@@ -24,9 +23,8 @@ Name your Campaign
   :width: 400
   :align: center  
   :alt: Name Campaign
-  :class: with-shadow
 
-  Set a attractive and recognizable name for your campaign. This is the first thing an influencer see when he/she gets an invite. 
+Set a attractive and recognizable name for your campaign. This is the first thing an influencer see when he/she gets an invite. 
 
 Set the budget
 ~~~~~~~~~~~~
@@ -35,9 +33,8 @@ Set the budget
   :width: 400
   :align: center  
   :alt: Campaign Budget
-  :class: with-shadow
 
-  Set the budget of your campaign, further up in this form you'll be able to spread this over several services.
+Set the budget of your campaign, further up in this form you'll be able to spread this over several services.
 
 Choose Runtime
 ~~~~~~~~~~~~
@@ -46,10 +43,10 @@ Choose Runtime
   :width: 400
   :align: center  
   :alt: Campaign Runtime
-  :class: with-shadow 
 
-  Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
-  When choosing ASAP as begintime, all deal with be executed the moment they are accepted by both parties.
+
+Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
+When choosing ASAP as begintime, all deal with be executed the moment they are accepted by both parties.
 
 Set Deals
 ----------------
