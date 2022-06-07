@@ -24,7 +24,7 @@ Name your Campaign
   :width: 400
   :align: center  
   :alt: Name Campaign
-Set a attractive and recognizable name for your campaign. This is the first thing an influencer see when he/she gets an invite. 
+Set a attractive and recognizable name for your campaign. This is the first thing an influencer sees when he/she gets an invite. 
 
 Set the budget
 ~~~~~~~~~~~~
@@ -44,6 +44,26 @@ Choose Runtime
   :alt: Campaign Runtime
 Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
 When choosing ASAP as begintime, all deal with be executed the moment they are accepted by both parties.
+
+Set Location
+~~~~~~~~~~~~
+
+.. image:: _static/images/campaign-step4.png
+  :width: 400
+  :align: center  
+  :alt: Campaign Location
+Set the location for your campaign.
+
+Select Language
+~~~~~~~~~~~~
+
+.. image:: _static/images/campaign-step5.png
+  :width: 400
+  :align: center  
+  :alt: Campaign Language
+Set the language for your campaign.
+
+
 
 Set Deals
 ----------------
