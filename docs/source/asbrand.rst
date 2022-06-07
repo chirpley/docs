@@ -1,28 +1,24 @@
 Chirpley as Brand
 =====
 
-Our platform is designed in such a way that it doesn't matter if you're a brand, influencer, content creator or just an average Joe/Jane.
-Anyone can register and everyone has the same functionalities at his/her disposal.
-You can be a brand and an influencer with the same account, starting a campaign as a brand and at the same time create content for other brands just by flipping a switch.
+Chirpley entirely dedicates its marketing platform to small or nano-influencers in the crypto community and blockchain marketing. It ought to fit these influencers in an extensive campaign. As they say, the magic is not in the number of followers but the number of engagements.
 
-Let me take you down the rabbithole and introduce you to our ever evolving platform.
-
-It all starts with the....
+Chirpley revolutionizes the process of influencer marketing. It has been devised to utilize numerous small influencers to improve a campaign’s reach and impact.
 
 Create Campaign
 ------------
 
-To be able to register for an account you'll need to be 16yrs or older.
-This is due to strict privacy regulations in some parts of the world.
+To create a campaign go to the campaign page (https://app.chirpley.ai/Campaign/CampaignOverview) and click on the "Creat New Campaign" button.
+This will take you to the page as seen below.
 
-.. image:: _static/images/signup.png
-  :width: 400
+.. image:: _static/images/new-campaign.png
+  :width: 600
   :align: center  
-  :alt: Chirpley Signup
+  :alt: Create Campaign
 
 
-Just go to https://app.chirpley.ai/Account/Register in your browser of choice and fill in your emailadres and date of birth.
-Before you hit the red Register-button you can choose to be updated on news and upcoming features by clicking the check-box.
+Here you will be presented with a questionairy which will guide you through the process.
+
 
 
 Set Deals
