@@ -9,17 +9,38 @@ Create Campaign
 ------------
 
 To create a campaign go to the campaign page (https://app.chirpley.ai/Campaign/CampaignOverview) and click on the "Creat New Campaign" button.
-This will take you to the page as seen below.
+This will take you to the page as seen below where you will be presented with a questionairy which will guide you through the process.
 
 .. image:: _static/images/new-campaign.png
   :width: 600
   :align: center  
   :alt: Create Campaign
+  :class: with-shadow  
 
+Name your Campaign
+~~~~~~~~~~~~
 
-Here you will be presented with a questionairy which will guide you through the process.
+.. image:: _static/images/campaign-step1.png
+  :width: 400
+  :align: center  
+  :alt: Name Campaign
+  :class: with-shadow 
+  Set a attractive and recognizable name for your campaign. This is the first thing an influencer see when he/she gets an invite. 
 
-
+.. image:: _static/images/campaign-step2.png
+  :width: 400
+  :align: center  
+  :alt: Campaign Budget
+  :class: with-shadow 
+  Set the budget of your campaign, further up in this form you'll be able to spread this over several services.
+  
+.. image:: _static/images/campaign-step3.png
+  :width: 400
+  :align: center  
+  :alt: Campaign Runtime
+  :class: with-shadow 
+  Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
+  When choosing ASAP as begintime, all deal with be executed the moment they are accepted by both parties.
 
 Set Deals
 ----------------
