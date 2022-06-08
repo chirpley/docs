@@ -17,23 +17,30 @@ This will take you to the page as seen below where you will be presented with a 
   :alt: Create Campaign 
 
 
+
 .. figure::  _static/images/campaign-step1.png
-  :align: center  
-  :alt: Name Campaign
+  :width: 400
+  :align: center
+  :target: blank
+  :class: with-shadow   
  
 Set a attractive and recognizable name for your campaign. This is the first thing an influencer sees when he/she gets an invite. 
 
 
 .. figure::  _static/images/campaign-step2.png
   :width: 400
-  :align: center  
+  :align: center
+  :target: blank
+  :class: with-shadow   
   :alt: Campaign Budget
 
 Set the budget of your campaign, further up in this form you'll be able to spread this over several services.
 
 .. figure:: _static/images/campaign-step3.png
   :width: 400
-  :align: center  
+  :align: center
+  :target: blank
+  :class: with-shadow   
   :alt: Campaign Runtime
 
 Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
