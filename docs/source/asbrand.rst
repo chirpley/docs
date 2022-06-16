@@ -122,7 +122,7 @@ Here you'll be presented with influencer-dummies which represent the influencers
 The number and type of the the shown dummies is roughtly based on the budget available for that particular service. The final number of influencers accepting your deal might vary due to the value of each influencer.
 
 
-.. figure:: _static/images/deal-like.png
+.. figure:: _static/images/deals-like.png
   :width: 600
   :align: center  
   :alt: Like deals
