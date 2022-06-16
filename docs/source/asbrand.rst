@@ -72,6 +72,37 @@ This will take you to a new page where you will be presented with a questionairy
   What are niches of your campaign.
 
 
+.. figure:: _static/images/campaign-step8.png
+  :width: 600
+  :align: center  
+  :alt: Campaign Niches
+  
+  Select the social-media channels for your campaign.
+
+
+.. figure:: _static/images/campaign-step9.png
+  :width: 600
+  :align: center  
+  :alt: Campaign Niches
+  
+  Select the services you which for your campaign.
+  
+.. figure:: _static/images/campaign-step10.png
+  :width: 600
+  :align: center  
+  :alt: Campaign Niches
+  
+  Divide the campaign-budget amongst the chosen services.  
+  
+.. figure:: _static/images/campaign-step11.png
+  :width: 600
+  :align: center  
+  :alt: Campaign Niches
+  
+  In the last screen you will be asked to deposit your campaignbudget.
+
+
+After creating a campaign and succesfully deposit your budget it's is time to set the deals for the influencers.
 
 Set Deals
 ----------------
