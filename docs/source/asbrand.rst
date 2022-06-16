@@ -25,6 +25,7 @@ Set a attractive and recognizable name for your campaign. This is the first thin
   :align: center
   :alt: Campaign Budget
 
+.. class:: center
 Set the budget of your campaign, further up in this form you'll be able to spread this over several services.
 
 
@@ -33,6 +34,7 @@ Set the budget of your campaign, further up in this form you'll be able to sprea
   :align: center
   :alt: Campaign Runtime
 
+.. class:: center
 Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
 When choosing ASAP as begintime, all deal with be executed the moment they are accepted by both parties.
 
