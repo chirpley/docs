@@ -75,7 +75,7 @@ This will take you to a new page where you will be presented with a questionairy
 .. figure:: _static/images/campaign-step8.png
   :width: 600
   :align: center  
-  :alt: Campaign Niches
+  :alt: Social Media channels
   
   Select the social-media channels for your campaign.
 
@@ -83,17 +83,19 @@ This will take you to a new page where you will be presented with a questionairy
 .. figure:: _static/images/campaign-step9.png
   :width: 600
   :align: center  
-  :alt: Campaign Niches
+  :alt: Campaign Services
   
   Select the services you which for your campaign.
-  
+
+
 .. figure:: _static/images/campaign-step10.png
   :width: 600
   :align: center  
-  :alt: Campaign Niches
+  :alt: Divide the budget
   
   Divide the campaign-budget amongst the chosen services.  
-  
+
+
 .. figure:: _static/images/campaign-step11.png
   :width: 600
   :align: center  
