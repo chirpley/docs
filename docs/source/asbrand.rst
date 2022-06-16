@@ -8,8 +8,8 @@ Chirpley revolutionizes the process of influencer marketing. It has been devised
 Create Campaign
 ------------
 
-To create a campaign go to the campaign page (https://app.chirpley.ai/Campaign/CampaignOverview) and click on the "Creat New Campaign" button.
-This will take you to the page as seen below where you will be presented with a questionairy which will guide you through the process.
+To create a campaign go to the campaign page (https://app.chirpley.ai/Campaign/CampaignOverview) and click on the "Create New Campaign" button.
+This will take you to a new page where you will be presented with a questionairy which will guide you through the process.
 
 
 .. figure::  _static/images/campaign-step1.png
