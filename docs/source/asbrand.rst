@@ -106,15 +106,26 @@ This will take you to a new page where you will be presented with a questionairy
 
 After creating a campaign and succesfully deposit your budget it's is time to set the deals for the influencers.
 
+.. figure:: _static/images/campaign-step12.png
+  :width: 600
+  :align: center  
+  :alt: Campaign deals
+  
+  Set the deals for your new campaign.
+
 Set Deals
 ----------------
 
-After you've send the form, you'll receive a message in your email box (If you can't find it in your imbox, please check your spambox). This includes a link to complete your registration.
+For the services you've chosen during the creation of the campaign you'll need to set content for the deals which influencers can accept.
+On the left you'll find all the services in your campaign. By clicking on them, the service will open in the center of the screen.
+Here you'll be presented with influencer-dummies which represent the influencers which might perform the services for you.
+The number and type of the the shown dummies is roughtly based on the budget available for that particular service. The final number of influencers accepting your deal might vary due to the value of each influencer.
 
-.. image:: _static/images/activate.png
-  :width: 400
+
+.. figure:: _static/images/deal-like.png
+  :width: 600
   :align: center  
-  :alt: Chirpley Activation
+  :alt: Like deals
 
 
 Follow the link and you'll be served with some questions to complete your registration.
