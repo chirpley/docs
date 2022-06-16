@@ -15,7 +15,7 @@ Registration
 To be able to register for an account you'll need to be 16yrs or older.
 This is due to strict privacy regulations in some parts of the world.
 
-.. image:: _static/images/signup.png
+.. figure:: _static/images/signup.png
   :width: 400
   :align: center  
   :alt: Chirpley Signup
@@ -30,7 +30,7 @@ Activation
 
 After you've send the form, you'll receive a message in your email box (If you can't find it in your imbox, please check your spambox). This includes a link to complete your registration.
 
-.. image:: _static/images/activate.png
+.. figure:: _static/images/activate.png
   :width: 400
   :align: center  
   :alt: Chirpley Activation
@@ -47,11 +47,12 @@ Passwords must have at least one one digit ('0'-'9') and one non-alphanumeric ch
 
 Pick the Markets where your in active or where your interest lies.
 
-.. image:: _static/images/register.png
+.. figure:: _static/images/register.png
   :width: 400
   :align: center  
   :alt: Complete Registration    
- 
+
+
 
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
 We'll be activating more markets later this year.
@@ -66,7 +67,7 @@ At the moment of writing only Twitter is activated, eventually this will change 
 On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are.
 In each role you can connect different social-channels and choose different market-niches.
 
-.. image:: _static/images/profile.png
+.. figure:: _static/images/profile.png
   :width: 800
   :align: center  
   :alt: Complete Registration 
