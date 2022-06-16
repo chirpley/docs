@@ -11,12 +11,6 @@ Create Campaign
 To create a campaign go to the campaign page (https://app.chirpley.ai/Campaign/CampaignOverview) and click on the "Creat New Campaign" button.
 This will take you to the page as seen below where you will be presented with a questionairy which will guide you through the process.
 
-.. image:: _static/images/new-campaign.png
-  :width: 600
-  :align: center  
-  :alt: Create Campaign 
-
-
 
 .. figure::  _static/images/campaign-step1.png
   :width: 600
