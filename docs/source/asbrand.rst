@@ -63,6 +63,14 @@ Set the language for your campaign.
 What is the goal of your campaign.
 
 
+.. image:: _static/images/campaign-step7.png
+  :width: 600
+  :align: center  
+  :alt: Campaign Niches
+ 
+What are niches of your campaign.
+
+
 
 Set Deals
 ----------------
