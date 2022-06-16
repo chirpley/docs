@@ -19,12 +19,14 @@ This will take you to a new page where you will be presented with a questionairy
 Set a attractive and recognizable name for your campaign. This is the first thing an influencer sees when he/she gets an invite. 
 
 
+
 .. figure::  _static/images/campaign-step2.png
   :width: 600
   :align: center
   :alt: Campaign Budget
 
 Set the budget of your campaign, further up in this form you'll be able to spread this over several services.
+
 
 .. figure:: _static/images/campaign-step3.png
   :width: 600
@@ -35,6 +37,7 @@ Set the runtime for your campaign, you can set a begin-time and end-time in whic
 When choosing ASAP as begintime, all deal with be executed the moment they are accepted by both parties.
 
 
+
 .. image:: _static/images/campaign-step4.png
   :width: 600
   :align: center  
@@ -43,12 +46,21 @@ When choosing ASAP as begintime, all deal with be executed the moment they are a
 Set the location for your campaign.
 
 
+
 .. image:: _static/images/campaign-step5.png
-  :width: 400
+  :width: 600
   :align: center  
   :alt: Campaign Language
  
 Set the language for your campaign.
+
+
+.. image:: _static/images/campaign-step6.png
+  :width: 600
+  :align: center  
+  :alt: Campaign Goal
+ 
+What is the goal of your campaign.
 
 
 
