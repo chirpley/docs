@@ -16,7 +16,8 @@ This will take you to a new page where you will be presented with a questionairy
   :width: 600
   :align: center 
  
-Set a attractive and recognizable name for your campaign. This is the first thing an influencer sees when he/she gets an invite. 
+  Set a attractive and recognizable name for your campaign.
+  This is the first thing an influencer sees when he/she gets an invite.
 
 
 
