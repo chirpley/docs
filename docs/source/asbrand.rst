@@ -24,19 +24,17 @@ Set a attractive and recognizable name for your campaign. This is the first thin
   :width: 600
   :align: center
   :alt: Campaign Budget
-
-.. class:: center
-Set the budget of your campaign, further up in this form you'll be able to spread this over several services.
+  
+  Set the budget of your campaign, further up in this form you'll be able to spread this over several services.
 
 
 .. figure:: _static/images/campaign-step3.png
   :width: 600
   :align: center
   :alt: Campaign Runtime
-
-.. class:: center
-Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
-When choosing ASAP as begintime, all deal with be executed the moment they are accepted by both parties.
+  
+  Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
+  When choosing ASAP as begintime, all deal with be executed the moment they are accepted by both parties.
 
 
 
@@ -45,7 +43,7 @@ When choosing ASAP as begintime, all deal with be executed the moment they are a
   :align: center  
   :alt: Campaign Location
   
-Set the location for your campaign.
+  Set the location for your campaign.
 
 
 
@@ -53,24 +51,24 @@ Set the location for your campaign.
   :width: 600
   :align: center  
   :alt: Campaign Language
- 
-Set the language for your campaign.
+  
+  Set the language for your campaign.
 
 
 .. image:: _static/images/campaign-step6.png
   :width: 600
   :align: center  
   :alt: Campaign Goal
- 
-What is the goal of your campaign.
+  
+  What is the goal of your campaign.
 
 
 .. image:: _static/images/campaign-step7.png
   :width: 600
   :align: center  
   :alt: Campaign Niches
- 
-What are niches of your campaign.
+  
+  What are niches of your campaign.
 
 
 
