@@ -28,4 +28,9 @@ p.admonition-title {
 a {
     color: #f24139 !important;
 }
-.center {text-align: center;}
+.center {
+    text-align: center;
+}
+figcaption p {
+    font-size: 14px;
+}
