@@ -38,7 +38,7 @@ Set a attractive and recognizable name for your campaign. This is the first thin
 
 
 
-.. image:: _static/images/campaign-step4.png
+.. figure:: _static/images/campaign-step4.png
   :width: 600
   :align: center  
   :alt: Campaign Location
@@ -47,7 +47,7 @@ Set a attractive and recognizable name for your campaign. This is the first thin
 
 
 
-.. image:: _static/images/campaign-step5.png
+.. figure:: _static/images/campaign-step5.png
   :width: 600
   :align: center  
   :alt: Campaign Language
@@ -55,7 +55,7 @@ Set a attractive and recognizable name for your campaign. This is the first thin
   Set the language for your campaign.
 
 
-.. image:: _static/images/campaign-step6.png
+.. figure:: _static/images/campaign-step6.png
   :width: 600
   :align: center  
   :alt: Campaign Goal
@@ -63,7 +63,7 @@ Set a attractive and recognizable name for your campaign. This is the first thin
   What is the goal of your campaign.
 
 
-.. image:: _static/images/campaign-step7.png
+.. figure:: _static/images/campaign-step7.png
   :width: 600
   :align: center  
   :alt: Campaign Niches
