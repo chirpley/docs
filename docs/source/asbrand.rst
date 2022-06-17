@@ -124,8 +124,30 @@ On the left you'll find all the services in your campaign. By clicking on them, 
 Here you'll find cards which represent matching influencers which might perform the services for you. In this stage all influencers are anonymous.
 The number and type of the shown influencers is roughtly based on the budget available for that particular service. The final number of influencers accepting your deal might vary due to the value of each influencer.
 
-Once you select one or more cards in the center of the screen, you'll be able to set the content for these cards on the rightside.
-This can be done one by one or in batch.
+Once you select a card in the center of the screen, you'll be able to set the content for these cards in a form on the rightside. This can be done one by one or in batch.
+The questions in the form are related to the service you're working on. Below you will find an overview of the questions per servicetype.
+
+
+.. list-table:: Set Content
+   :widths: 40 60
+   :header-rows: 1
+
+   * - Service type
+     - Form Items
+   * - Like
+     - URL of post to liked
+   * - Follow
+     - URL of profile to be followed.
+   * - Retweet
+     - URL of tweet to be shared
+   * - Comment
+     - URL of tweet to be commented on, content of comment(fix content,change in own-words,write based on instructions)    
+   * - Tweet
+     - Content of tweet(fix content,change in own-words,write based on instructions) and media if service is of this type.   
+   * - Quote
+     - URL of tweet to be shared, content of quote(fix content,change in own-words,write based on instructions) and media if service is of this type.      
+
+
 
 .. figure:: _static/images/deals-like.png
   :width: 600
