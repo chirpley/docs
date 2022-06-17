@@ -209,14 +209,23 @@ At this point all we need to do is wait until the budget of the service is fille
   :align: center  
   :alt: Service deals-progressbar
   
-  After sendiong the invite you can see how far the budget for each service is filled. 
+  After sending-out the invites you can see how far the budget for each service is filled. 
 
 
 
 Review Content
 ------------
 
-For content written by the influencers you will receive an review request. 
+In case an influencer as accepted a deal where he/she has to write their own content, 
+If you have chosen for content written by the influencer the brandf will be able to review 
+request as soon as the influencer has accepted the deal and set the content.
+
+.. figure:: _static/images/deals-progressbar.png
+  :width: 400
+  :align: center  
+  :alt: Service deals-progressbar
+  
+  After sending-out the invites you can see how far the budget for each service is filled. 
 
 
    
