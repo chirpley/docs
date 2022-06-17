@@ -104,23 +104,28 @@ This will take you to a new page where you will be presented with a questionairy
   In the last screen you will be asked to deposit your campaignbudget.
 
 
-After creating a campaign and succesfully deposit your budget it's is time to set the deals for the influencers.
+After creating a campaign and succesfully deposit your budget it's is time to create the deals for the influencers.
 
 .. figure:: _static/images/campaign-step12.png
   :width: 600
   :align: center  
   :alt: Campaign deals
   
-  Set the deals for your new campaign.
+  Set the content for your new campaign.
 
 Set content and create deals
 ----------------
 
 For the services you've chosen during the creation of the campaign content needs to be set.
-On the left you'll find all the services in your campaign. By clicking on them, the service will open in the center of the screen.
-Here you'll be presented with dummies which represent the influencers which might perform the services for you.
-The number and type of the the shown dummies is roughtly based on the budget available for that particular service. The final number of influencers accepting your deal might vary due to the value of each influencer.
 
+On the left you'll find all the services in your campaign. By clicking on them, the service will open in the center of the screen.
+
+
+Here you'll find cards which represent matching influencers which might perform the services for you. In this stage all influencers are anonymous.
+The number and type of the shown influencers is roughtly based on the budget available for that particular service. The final number of influencers accepting your deal might vary due to the value of each influencer.
+
+Once you select one or more cards in the center of the screen, you'll be able to set the content for these cards on the rightside.
+This can be done one by one or in batch.
 
 .. figure:: _static/images/deals-like.png
   :width: 600
