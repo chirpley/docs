@@ -126,10 +126,17 @@ In the top of the centerview you can see a selection of filters which you can us
   :align: center  
   :alt: Service Tabs
   
-  Deals have different statussen during the runtime of the campaign. By clicking on the filters the deals with that status will be loaded in the grid below.
+  Deals have different statussen during the runtime of the campaign. By clicking on the filters, deals with that status will be loaded in the grid below.
   
 By default the filter "Set content" is activated.
 Until an influencer has accepted a deal, all the shown cards are anonymous except for favorites.
+
+.. figure:: _static/images/cards-anon.png
+  :width: 600
+  :align: center  
+  :alt: Service Tabs
+
+  Anonymous cards
 
 To add favorites to a service, just click on the button "Add Favorites".
 This will open a pop-up where your can select your personal favorites to be added to the current service.
