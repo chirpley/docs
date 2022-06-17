@@ -252,7 +252,7 @@ Select the deal which you want to review and the content is shown on the rightsi
 At the bottom you can Accept the deal, decline the deal or change the content. 
 When a brand decides to change the content, any changes made to the content need be accepted by the influencer first after which the brand has the final saying.
 
-When both parties agree on the content the deal is set and will be scheduled for publication.
+When both parties agree on the content, the deal is set and will be scheduled for publication.
 
 
 
