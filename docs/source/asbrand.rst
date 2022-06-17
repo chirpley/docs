@@ -128,9 +128,11 @@ The number and type of the shown influencers is roughtly based on the budget ava
   :width: 600
   :align: center  
   :alt: Like deals
+  
+  View of the like service with 8 selected cards.
 
-Once you select a card in the center of the screen, you'll be able to set the content for these cards in a form on the rightside. This can be done one by one or in batch.
-The questions in the form are related to the service you're working on. Below you will find an overview of the questions per servicetype.
+Once you select a card in the center of the screen, you'll be able to set the content for these cards in a form on the rightside. This can be done one by one or in batch. The questions in the form are related to the service you're working on. 
+Below you will find an overview of the questions per servicetype.
 
 
 ============  ==========
@@ -150,6 +152,15 @@ Quote         - URL of tweet to be shared.
               - content of quote(fix content,change in own-words,write based on instructions).
               - Media if service is of this type. 
 ============  ==========
+
+When you're setting the content for comments, tweets or quotes you can choose between 3 options.
+- Influencer cannot change text. (message should be sent as is)
+- Influencer is required to put the text in their own words.
+- Influencer writes own content based on text/announcement from brand.
+
+With the first option the brand writes the content and the influencer has to accept the deal as is. With the second option, the brand writes the content but the influencer has to rewrite it in their own words. With the final option the brand only gives instructions to the influencer on where to write about, this can be an article, product, event etc.
+
+
 
 Invite Influencers
 ------------
