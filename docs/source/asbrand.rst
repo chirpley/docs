@@ -122,7 +122,15 @@ On the left you'll find all the services in your campaign. By clicking on them, 
 
 
 Here you'll find cards which represent matching influencers which might perform the services for you. In this stage all influencers are anonymous.
-The number and type of the shown influencers is roughtly based on the budget available for that particular service. The final number of influencers accepting your deal might vary due to the value of each influencer.
+The number and type of the shown influencers is roughtly based on the budget available for that particular service.
+The final number of influencers accepting your deal might vary due to the value of each influencer.
+
+In the top of the centerview you can see a selection of filters which you can use to show different type of cards.(set content, content set etc.)
+Until an influencer has accepted a deal, all the shown cards are anonymous except for favorites.
+
+To add favorites to a service, just click on the button "Add Favorites".
+This will open a popup where your can select your personal favorites to be added to the current service.
+
 
 .. figure:: _static/images/deals-like.png
   :width: 600
@@ -164,13 +172,15 @@ When you're setting the content for comments, tweets or quotes you can choose be
 
 With the first option the brand writes the content and the influencer has to accept the deal as is. With the second option, the brand writes the content but the influencer has to rewrite it in their own words. With the final option the brand only gives instructions to the influencer on where to write about, this can be an article, product, event etc.
 
+The service-budget will be divided over the different options used in the form. Say you have set 25% of the cards with the first content-option and 75% with the the second,
+the budget get divided between these accordingly. 
+
 
 
 Invite Influencers
 ------------
 
-Fill-in a username of your choice and choose a password.
-Passwords must have at least one one digit ('0'-'9') and one non-alphanumeric character.
+Once you've set all cards for a particular service you'll be able to invite all influencers matching your campaign.
 
 Pick the Markets where your in active or where your interest lies.
 
@@ -186,7 +196,7 @@ We'll be activating more markets later this year.
 Review Content
 ------------
 
-Before you can make use of the platform as influencer or brand, you'll need to connect at least one social-channel.
+Before you can make use of the platform as influencer or brand, you'll need to connect your account to at least one social-channel.
 At the moment of writing only Twitter is activated, eventually this will change later this year once development progresses.
 
 On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are.
