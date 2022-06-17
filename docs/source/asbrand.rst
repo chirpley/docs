@@ -239,18 +239,20 @@ Once an influencer has set the content the deal will be visible under the "Revie
 The number infront of the review-filter shows how many deals need to be reviewed.
 
 Click on the review-filter and all deals which need to be reviewed are shown in the grid below.
+Select the deal which you want to review and the content is shown on the rightside.
 
-.. figure:: _static/images/deals-progressbar.png
-  :width: 400
+.. figure:: _static/images/deals-review-1.png
+  :width: 100
   :align: center  
-  :alt: Service deals-progressbar
+  :alt: review Deal
   
-  After sending-out the invites you can see how far the budget for each service is filled. 
+  Review the content of the deals. 
 
 
-   
-Accept Deals
-------------
+At the bottom you can Accept the deal, decline the deal or change the content. 
+When a brand decides to change the content, any changes made to the content need be accepted by the influencer first after which the brand has the final saying.
+
+When both parties agree on the content the deal is set and will be scheduled for publication.
 
 
 
