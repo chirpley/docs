@@ -155,9 +155,9 @@ The questions in the form are related to the service you're working on. Below yo
 ============  ==========
 Service type  Form Items
 ============  ==========
-Like          Second column of row 1.
-Follow        Second column of row 2.
-Retweet       Second line of paragraph.
+Like          URL of post to liked.
+Follow        URL of profile to be followed.
+Retweet       URL of tweet to be shared.
 Comment       - URL of tweet to be commented on.
 
               - content of comment(fix content,change in own-words,write based on instructions).
