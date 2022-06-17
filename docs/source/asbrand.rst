@@ -242,7 +242,7 @@ Click on the review-filter and all deals which need to be reviewed are shown in 
 Select the deal which you want to review and the content is shown on the rightside.
 
 .. figure:: _static/images/deals-review-1.png
-  :width: 100
+  :width: 200
   :align: center  
   :alt: review Deal
   
