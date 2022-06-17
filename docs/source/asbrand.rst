@@ -129,7 +129,7 @@ In the top of the centerview you can see a selection of filters which you can us
 Until an influencer has accepted a deal, all the shown cards are anonymous except for favorites.
 
 To add favorites to a service, just click on the button "Add Favorites".
-This will open a popup where your can select your personal favorites to be added to the current service.
+This will open a pop-up where your can select your personal favorites to be added to the current service.
 
 
 .. figure:: _static/images/deals-like.png
@@ -170,28 +170,43 @@ When you're setting the content for comments, tweets or quotes you can choose be
 - Influencer writes own content based on text/announcement from brand.
 
 
-With the first option the brand writes the content and the influencer has to accept the deal as is. With the second option, the brand writes the content but the influencer has to rewrite it in their own words. With the final option the brand only gives instructions to the influencer on where to write about, this can be an article, product, event etc.
+With the first option the brand writes the content and the influencer has to accept the deal as is.
+With the second option, the brand writes the content but the influencer has to rewrite it in their own words and with the final option the brand only gives instructions to the influencer on where to write about, this can be an article, product, event etc.
+
+With the second and third option the brand will be able to review the content written by the influencer. As soon as both parties agree and accept the content the deal is final.
 
 The service-budget will be divided over the different options used in the form. Say you have set 25% of the cards with the first content-option and 75% with the the second,
 the budget get divided between these accordingly. 
 
 
 
+
 Invite Influencers
 ------------
 
-Once you've set all cards for a particular service you'll be able to invite all influencers matching your campaign.
+Once you've set all cards for a particular service you'll be able to invite all influencers matching this service.
+By clicking on the "Send Invite" button in the right-menu, all matching influencers will be invited to perform the selected service.
 
-Pick the Markets where your in active or where your interest lies.
+Because influencers are limited to a fixed number of deals per campaign, we recommend you to first set the content of all services 
+and combine the invites of different services (example: like, comment & retweet)
+This way the influencer can make a clear choice on which service they want to perform.
 
-.. image:: _static/images/register.png
+
+.. figure:: _static/images/register.png
   :width: 400
   :align: center  
   :alt: Complete Registration    
  
 
-At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
-We'll be activating more markets later this year.
+After you've send out the invites, the matching influencers will receive the invitations in their mailbox and as an on-platform notification.
+At this point all we need to do is wait until the budget of the service is filled with accepted deals.
+
+.. figure:: _static/images/deals-progressbar.png
+  :width: 400
+  :align: center  
+  :alt: Service deals-progressbar
+
+  After the invite you can see the much the budget for each service is filled.  
 
 Review Content
 ------------
