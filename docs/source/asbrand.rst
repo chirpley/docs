@@ -119,17 +119,26 @@ Set content and create deals
 For the services you've chosen during the creation of the campaign content needs to be set.
 
 On the left you'll find all the services in your campaign. By clicking on them, the service will open in the center of the screen.
-
-
-Here you'll find cards which represent matching influencers which might perform the services for you. In this stage all influencers are anonymous.
-The number and type of the shown influencers is roughtly based on the budget available for that particular service.
-The final number of influencers accepting your deal might vary due to the value of each influencer.
-
 In the top of the centerview you can see a selection of filters which you can use to show different type of cards.(set content, content set etc.)
+
+.. figure:: _static/images/service-header.png
+  :width: 600
+  :align: center  
+  :alt: Service Tabs
+  
+  Deals have different statussen during the runtime of the campaign. By clicking on the filters the deals with that status will be loaded in the grid below.
+  
+By default the filter "Set content" is activated.
 Until an influencer has accepted a deal, all the shown cards are anonymous except for favorites.
 
 To add favorites to a service, just click on the button "Add Favorites".
 This will open a pop-up where your can select your personal favorites to be added to the current service.
+
+
+The shown cards under "Set Content", "Content Set" and "Invited" represent matching influencers which might perform the services for you.
+The number and type of the shown influencers is roughtly based on the budget available for that particular service.
+The final number of influencers accepting your deal might vary due to the value of each influencer.
+
 
 
 .. figure:: _static/images/deals-like.png
@@ -180,7 +189,6 @@ the budget get divided between these accordingly.
 
 
 
-
 Invite Influencers
 ------------
 
@@ -201,7 +209,9 @@ This way the influencer can make a clear choice on which service they want to pe
 
 
 After you've send out the invites, the matching influencers will receive the invitations in their mailbox and as an on-platform notification.
-At this point all we need to do is wait until the budget of the service is filled with accepted deals.
+The all the cards have the status "invited"
+
+At this point all you need to do is wait until the budget of the service is filled with accepted deals.
 
 
 .. figure:: _static/images/deals-progressbar.png
@@ -210,15 +220,18 @@ At this point all we need to do is wait until the budget of the service is fille
   :alt: Service deals-progressbar
   
   After sending-out the invites you can see how far the budget for each service is filled. 
+  
 
 
 
-Review Content
+Review content & Accepting deals
 ------------
 
-In case an influencer as accepted a deal where he/she has to write their own content, 
-If you have chosen for content written by the influencer the brandf will be able to review 
-request as soon as the influencer has accepted the deal and set the content.
+In case the brand has created deals where influencers have to write their own content, the brand will have a chance to review these.
+Once an influencer has set the content the deal will be visible under the "Review" tab.
+The number infront of the review-filter shows how many deals need to be reviewed.
+
+Click on the review-filter and all deals which need to be reviewed are shown in the grid below.
 
 .. figure:: _static/images/deals-progressbar.png
   :width: 400
@@ -232,10 +245,7 @@ request as soon as the influencer has accepted the deal and set the content.
 Accept Deals
 ------------
 
-For influencers a twitter-account needs to have a minumum of 100 followers and atleast 20 own tweets.(retweets and replies are excluded) to be able to connect your Twitter)
-The moment you've connected your social-media account with the platform, our automated system calculates the value of your account based the content.
-In step 6 of the questionairy you'll find the results of this calculation and the pricings your can receive for your selected services.
-You're able to adjust these values by 10%.
+
 
 Cancel Campaign
 ------------
