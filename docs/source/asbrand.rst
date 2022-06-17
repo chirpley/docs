@@ -192,71 +192,33 @@ and combine the invites of different services (example: like, comment & retweet)
 This way the influencer can make a clear choice on which service they want to perform.
 
 
-.. figure:: _static/images/register.png
+.. figure:: _static/images/deals-invite.png
   :width: 400
   :align: center  
-  :alt: Complete Registration    
- 
+  :alt: Invite matched influencers
+
+  Click on the "Send Invite" button to invite the influencers.
+
 
 After you've send out the invites, the matching influencers will receive the invitations in their mailbox and as an on-platform notification.
 At this point all we need to do is wait until the budget of the service is filled with accepted deals.
+
 
 .. figure:: _static/images/deals-progressbar.png
   :width: 400
   :align: center  
   :alt: Service deals-progressbar
+  
+  After sendiong the invite you can see how far the budget for each service is filled. 
 
-  After the invite you can see the much the budget for each service is filled.  
+
 
 Review Content
 ------------
 
-Before you can make use of the platform as influencer or brand, you'll need to connect your account to at least one social-channel.
-At the moment of writing only Twitter is activated, eventually this will change later this year once development progresses.
-
-On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are.
-In each role you can connect different social-channels and choose different market-niches.
-
-.. image:: _static/images/profile.png
-  :width: 800
-  :align: center  
-  :alt: Complete Registration 
+For content written by the influencers you will receive an review request. 
 
 
-Click on the Twitter icon and you'll be presented with a questionairy to connect your twitteraccount to your Chirpley-account.
-
-.. |connect1| image:: _static/images/influencer-step1a.png
-    :scale: 30%
-
-.. |connect2| image:: _static/images/influencer-step1b.png
-    :scale: 30%
-
-.. |connect3| image:: _static/images/influencer-step2.png
-    :scale: 30%
-
-.. |connect4| image:: _static/images/influencer-step3.png
-    :scale: 30%  
-
-.. |connect5| image:: _static/images/influencer-step4.png
-    :scale: 30%
-
-.. |connect6| image:: _static/images/influencer-step5.png
-    :scale: 30%
-
-.. |connect7| image:: _static/images/influencer-step6.png
-    :scale: 30%     
-
-.. |connect8| image:: _static/images/influencer-step7.png
-    :scale: 30% 
-
-.. table:: Connect Twitter
-   :align: center
-
-   +------------+------------+------------+------------+
-   | |connect1| | |connect2| | |connect3| | |connect4| |
-   +------------+------------+------------+------------+
-   | |connect5| | |connect6| | |connect7| | |connect8| |
-   +------------+------------+------------+------------+
    
 Accept Deals
 ------------
