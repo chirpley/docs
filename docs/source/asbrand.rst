@@ -127,9 +127,14 @@ The number and type of the shown influencers is roughtly based on the budget ava
 Once you select a card in the center of the screen, you'll be able to set the content for these cards in a form on the rightside. This can be done one by one or in batch.
 The questions in the form are related to the service you're working on. Below you will find an overview of the questions per servicetype.
 
+.. figure:: _static/images/deals-like.png
+  :width: 600
+  :align: center  
+  :alt: Like deals
+
 
 .. list-table:: Set Content
-   :widths: 40 60
+   :widths: 30 70
    :header-rows: 1
 
    * - Service type
@@ -147,15 +152,6 @@ The questions in the form are related to the service you're working on. Below yo
    * - Quote
      - URL of tweet to be shared, content of quote(fix content,change in own-words,write based on instructions) and media if service is of this type.      
 
-
-
-.. figure:: _static/images/deals-like.png
-  :width: 600
-  :align: center  
-  :alt: Like deals
-
-
-Follow the link and you'll be served with some questions to complete your registration.
 
 
 Invite Influencers
