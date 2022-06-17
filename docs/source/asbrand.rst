@@ -152,7 +152,23 @@ The questions in the form are related to the service you're working on. Below yo
    * - Quote
      - URL of tweet to be shared, content of quote(fix content,change in own-words,write based on instructions) and media if service is of this type.      
 
+============  ==========
+Service type  Form Items
+============  ==========
+Like          Second column of row 1.
+Follow        Second column of row 2.
+Retweet       Second line of paragraph.
+Comment       - URL of tweet to be commented on.
 
+              - content of comment(fix content,change in own-words,write based on instructions).
+Tweet         - Content of tweet(fix content,change in own-words,write based on instructions)
+
+              - Media if service is of this type. 
+Quote         - URL of tweet to be shared.
+
+              - content of quote(fix content,change in own-words,write based on instructions).
+              - Media if service is of this type. 
+============  ==========
 
 Invite Influencers
 ------------
