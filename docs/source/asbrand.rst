@@ -279,7 +279,7 @@ Chat Function
    :height: 18px
 
 As long as a campaign is active you can start a private chat with influencers.
-This can be useful when the content requires extra information. Just click on the |chaticon| of the influencer to start a conversation.
+This can be useful when the content requires extra information. Just click on the |chaticon| in the card of the influencer to start a conversation.
 
 
 .. figure:: _static/images/deals-chat.png
