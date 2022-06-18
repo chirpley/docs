@@ -1,7 +1,7 @@
 Chirpley as Brand
 =====
 
-Chirpley entirely dedicates its marketing platform to small or nano-influencers in the crypto community and blockchain marketing. It ought to fit these influencers in an extensive campaign. As they say, the magic is not in the number of followers but the number of engagements.
+Chirpley entirely dedicates its marketing platform to small or nano-influencers. It ought to fit these influencers in an extensive campaign. As they say, the magic is not in the number of followers but the number of engagements.
 
 Chirpley revolutionizes the process of influencer marketing. It has been devised to utilize numerous small influencers to improve a campaign’s reach and impact.
 
