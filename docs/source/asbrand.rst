@@ -141,6 +141,12 @@ Until an influencer has accepted a deal, all the shown cards are anonymous excep
 To add favorites to a service, just click on the button "Add Favorites".
 This will open a pop-up where your can select your personal favorites to be added to the current service.
 
+.. figure::  _static/images/deals-fav.png
+  :width: 500
+  :align: center
+  :alt: Favorites
+  
+  At your personal favorites to the campaign.
 
 The shown cards under "Set Content", "Content Set" and "Invited" represent matching influencers which might perform the services for you.
 The number and type of the shown influencers is roughly based on the budget available for that particular service.
