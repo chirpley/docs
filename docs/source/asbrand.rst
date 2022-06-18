@@ -275,12 +275,11 @@ When both parties agree on the content, the deal is set and will be scheduled fo
 Chat Function
 ------------
 
+.. |chaticon| image:: _static/images/chat-icon.svg
+   :height: 18px
 
 As long as a campaign is active you can start a private chat with influencers.
-This can be useful when the content requires extra information.
-
-.. |chaticon| image:: _static/images/chat-icon.svg
-   :height: 28px
+This can be useful when the content requires extra information. Just click on the |chaticon| of the influencer to start a conversation.
 
 
 .. figure:: _static/images/deals-chat.png
