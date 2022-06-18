@@ -241,12 +241,24 @@ The number in-front of the review-filter shows how many deals need to be reviewe
 Click on the review-filter and all deals which need to be reviewed are shown in the grid below.
 Select the deal which you want to review and the content is shown on the right side.
 
-.. figure:: _static/images/deals-review-1.png
-  :width: 200
-  :align: center  
-  :alt: review Deal
-  
-  Review the content of the deals. 
+
+.. |review1| image:: _static/images/deals-review-1.png
+    :scale: 30%
+
+.. |review2| image:: _static/images/deals-review-2.png
+    :scale: 30%
+
+.. |review3| image:: _static/images/deals-review-3.png
+    :scale: 30%
+
+
+.. table:: Review Content
+   :align: center
+
+   +-------------+-------------+-------------+
+   | | review1 | | | review2 | | | review3 | |
+   +-------------+-------------+-------------+
+
 
 
 At the bottom you can Accept the deal, decline the deal or change the content. 
