@@ -272,7 +272,15 @@ Cancel Campaign
 ------------
 
 In case a brand made a mistake with the set content of any other reason, he/she can cancel the campaign at anytime.
-All deals which haven't been completed yet will be canceled that instant and the remaining budget of the campaign reimbursed to the brand's wallet. 
+
+.. figure:: _static/images/cancel-campaign.png
+  :width: 300
+  :align: center  
+  :alt: Cancel Campaign
+  
+  By clicking on the Cancel button in the campaign-overview, the campaign will be cancelled immediately. 
+
+All deals which haven't been completed yet will be cancelled that instant and the remaining budget of the campaign reimbursed to the brand's wallet. 
 
 
 
