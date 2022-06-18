@@ -256,7 +256,7 @@ Select the deal which you want to review and the content is shown on the right s
    :align: center
 
    +-------------+-------------+-------------+
-   | | review1 | | | review2 | | | review3 | |
+   |  |review1|  |  |review2|  |  |review3|  |
    +-------------+-------------+-------------+
 
 
