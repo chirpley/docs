@@ -13,7 +13,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure::  _static/images/campaign-step1.png
-  :width: 600
+  :width: 500
   :align: center 
  
   Set a attractive and recognizable name for your campaign.
@@ -22,7 +22,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure::  _static/images/campaign-step2.png
-  :width: 600
+  :width: 500
   :align: center
   :alt: Campaign Budget
   
@@ -30,7 +30,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure:: _static/images/campaign-step3.png
-  :width: 600
+  :width: 500
   :align: center
   :alt: Campaign Runtime
   
@@ -40,7 +40,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure:: _static/images/campaign-step4.png
-  :width: 600
+  :width: 500
   :align: center  
   :alt: Campaign Location
   
@@ -49,7 +49,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure:: _static/images/campaign-step5.png
-  :width: 600
+  :width: 500
   :align: center  
   :alt: Campaign Language
   
@@ -57,7 +57,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure:: _static/images/campaign-step6.png
-  :width: 600
+  :width: 500
   :align: center  
   :alt: Campaign Goal
   
@@ -65,7 +65,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure:: _static/images/campaign-step7.png
-  :width: 600
+  :width: 500
   :align: center  
   :alt: Campaign Niches
   
@@ -73,7 +73,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure:: _static/images/campaign-step8.png
-  :width: 600
+  :width: 500
   :align: center  
   :alt: Social Media channels
   
@@ -81,7 +81,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure:: _static/images/campaign-step9.png
-  :width: 600
+  :width: 500
   :align: center  
   :alt: Campaign Services
   
@@ -89,7 +89,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure:: _static/images/campaign-step10.png
-  :width: 600
+  :width: 500
   :align: center  
   :alt: Divide the budget
   
@@ -97,7 +97,7 @@ This will take you to a new page where you will be presented with a questionary 
 
 
 .. figure:: _static/images/campaign-step11.png
-  :width: 600
+  :width: 500
   :align: center  
   :alt: Campaign Niches
   
@@ -107,7 +107,7 @@ This will take you to a new page where you will be presented with a questionary 
 After creating a campaign and successfully deposit your budget it's is time to create the deals for the influencers.
 
 .. figure:: _static/images/campaign-step12.png
-  :width: 600
+  :width: 500
   :align: center  
   :alt: Campaign deals
   
@@ -208,7 +208,7 @@ This way the influencer can make a clear choice on which service they want to pe
 
 
 .. figure:: _static/images/deals-invite.png
-  :width: 400
+  :width: 300
   :align: center  
   :alt: Invite matched influencers
 
@@ -222,7 +222,7 @@ At this point all you need to do is wait until the budget of the service is fill
 
 
 .. figure:: _static/images/deals-progressbar.png
-  :width: 400
+  :width: 300
   :align: center  
   :alt: Service deals-progressbar
   
