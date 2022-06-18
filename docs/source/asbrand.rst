@@ -243,13 +243,13 @@ Select the deal which you want to review and the content is shown on the right s
 
 
 .. |review1| image:: _static/images/deals-review-1.png
-    :scale: 30%
+    :scale: 50%
 
 .. |review2| image:: _static/images/deals-review-2.png
-    :scale: 30%
+    :scale: 50%
 
 .. |review3| image:: _static/images/deals-review-3.png
-    :scale: 30%
+    :scale: 50%
 
 
 .. table:: Review Content
