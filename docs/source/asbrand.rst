@@ -272,6 +272,27 @@ When a brand decides to change the content, any changes made to the content need
 
 When both parties agree on the content, the deal is set and will be scheduled for publication.
 
+Chat Function
+------------
+
+
+As long as a campaign is active you can start a private chat with influencers.
+This can be useful when the content requires extra information.
+
+.. |chaticon| image:: chat-icon.svg
+   :height: 28px
+
+
+.. figure:: _static/images/deals-chat.png
+  :width: 300
+  :align: center  
+  :alt: Cancel Campaign
+  
+  When clicking on the |chaticon| in the deal-cards the chatbox opens on the right. 
+
+The chat is only available for influencers with an active status (accepted,review,pending,completed)
+Under the filter "Chat" you can you can see if influencers have replied or made a request.
+
 
 
 Cancel Campaign
