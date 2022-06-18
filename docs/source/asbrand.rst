@@ -279,7 +279,7 @@ Chat Function
 As long as a campaign is active you can start a private chat with influencers.
 This can be useful when the content requires extra information.
 
-.. |chaticon| image:: chat-icon.svg
+.. |chaticon| image:: _static/images/chat-icon.svg
    :height: 28px
 
 
