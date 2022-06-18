@@ -9,7 +9,7 @@ Create Campaign
 ------------
 
 To create a campaign go to the campaign page (https://app.chirpley.ai/Campaign/CampaignOverview) and click on the "Create New Campaign" button.
-This will take you to a new page where you will be presented with a questionairy which will guide you through the process.
+This will take you to a new page where you will be presented with a questionary which will guide you through the process.
 
 
 .. figure::  _static/images/campaign-step1.png
@@ -35,7 +35,7 @@ This will take you to a new page where you will be presented with a questionairy
   :alt: Campaign Runtime
   
   Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
-  When choosing ASAP as begintime, all deal with be executed the moment they are accepted by both parties.
+  When choosing ASAP as begin-time, all deal with be executed the moment they are accepted by both parties.
 
 
 
@@ -101,10 +101,10 @@ This will take you to a new page where you will be presented with a questionairy
   :align: center  
   :alt: Campaign Niches
   
-  In the last screen you will be asked to deposit your campaignbudget.
+  In the last screen you will be asked to deposit your campaign-budget.
 
 
-After creating a campaign and succesfully deposit your budget it's is time to create the deals for the influencers.
+After creating a campaign and successfully deposit your budget it's is time to create the deals for the influencers.
 
 .. figure:: _static/images/campaign-step12.png
   :width: 600
@@ -119,14 +119,14 @@ Set content and create deals
 For the services you've chosen during the creation of the campaign content needs to be set.
 
 On the left you'll find all the services in your campaign. By clicking on them, the service will open in the center of the screen.
-In the top of the centerview you can see a selection of filters which you can use to show different type of cards.(set content, content set etc.)
+In the top of the center-view you can see a selection of filters which you can use to show different type of cards.(set content, content set etc.)
 
 .. figure:: _static/images/service-header.png
   :width: 600
   :align: center  
   :alt: Service Tabs
   
-  Deals have different statussen during the runtime of the campaign. By clicking on the filters, deals with that status will be loaded in the grid below.
+  Deals have different statuses during the runtime of the campaign. By clicking on the filters, deals with that status will be loaded in the grid below.
   
 By default the filter "Set content" is activated.
 Until an influencer has accepted a deal, all the shown cards are anonymous except for favorites.
@@ -143,7 +143,7 @@ This will open a pop-up where your can select your personal favorites to be adde
 
 
 The shown cards under "Set Content", "Content Set" and "Invited" represent matching influencers which might perform the services for you.
-The number and type of the shown influencers is roughtly based on the budget available for that particular service.
+The number and type of the shown influencers is roughly based on the budget available for that particular service.
 The final number of influencers accepting your deal might vary due to the value of each influencer.
 
 
@@ -155,8 +155,8 @@ The final number of influencers accepting your deal might vary due to the value 
   
   View of the like service with 8 selected cards.
 
-Once you select a card in the center of the screen, you'll be able to set the content for these cards in a form on the rightside. This can be done one by one or in batch. The questions in the form are related to the service you're working on. 
-Below you will find an overview of the questions per servicetype.
+Once you select a card in the center of the screen, you'll be able to set the content for these cards in a form on the right side. This can be done one by one or in batch. The questions in the form are related to the service you're working on. 
+Below you will find an overview of the questions per service-type.
 
 
 ============  ==========
@@ -236,10 +236,10 @@ Review content & Accepting deals
 
 In case the brand has created deals where influencers have to write their own content, the brand will have a chance to review these.
 Once an influencer has set the content the deal will be visible under the "Review" tab.
-The number infront of the review-filter shows how many deals need to be reviewed.
+The number in-front of the review-filter shows how many deals need to be reviewed.
 
 Click on the review-filter and all deals which need to be reviewed are shown in the grid below.
-Select the deal which you want to review and the content is shown on the rightside.
+Select the deal which you want to review and the content is shown on the right side.
 
 .. figure:: _static/images/deals-review-1.png
   :width: 200
@@ -259,20 +259,12 @@ When both parties agree on the content, the deal is set and will be scheduled fo
 Cancel Campaign
 ------------
 
-Twitter-accounts of brands and marketeers aren't limited and the questionairy resembles that of influencers accept for the service and niche part.
-These settings are intergrated in the createcampaign-flow.
+In case a brand made a mistake with the set content of any other reason, he/she can cancel the campaign at anytime.
+All deals which haven't been completed yet will be canceled that instant and the remaining budget of the campaign reimbursed to the brand's wallet. 
 
-.. note::
-
-To change these setting in the future you can just click the Social-media icon in your profile (https://app.chirpley.ai/Account/Profile) and edit them thereafter.
 
 
 Campaign Dashboard
 ---------------
 
-Please take your time to upload a profile-image in the settings on the right. This will help you get noticed by marketers. 
-
-.. image:: _static/images/profile-image.png
-  :width: 400
-  :align: center  
-  :alt: Complete Registration
+N/A
