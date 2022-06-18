@@ -289,8 +289,8 @@ This can be useful when the content requires extra information. Just click on th
   
   When clicking on the |chaticon| in the deal-cards the chatbox opens on the right. 
 
-The chat is only available for influencers with an active status (accepted,review,pending,completed)
-Under the filter "Chat" you can you can see if influencers have replied or made a request.
+The chat is only available for influencers with an active status. (accepted,review,pending,completed)
+Under the filter "Chat" you can you can see if influencers have replied or made a new request.
 
 
 
