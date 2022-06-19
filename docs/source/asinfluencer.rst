@@ -67,7 +67,7 @@ Receiving Invites
 To be able to receive invites to campaigns you must have at least 20 followers and have active services in your connected channels.
 
 
-.. image:: _static/images/influencer-step5.png
+.. figure:: _static/images/influencer-step5.png
   :width: 400
   :align: center  
   :alt: Active Services
@@ -82,7 +82,7 @@ in option 5 (just click de red pencil behind it), you're able to activate the se
 When a brand sends out an invite for a service in their campaign, this invite is send to all influencers matching the service and the optional added favorites.
 
 
-.. image:: _static/images/influencer-invite.png
+.. figure:: _static/images/influencer-invite.png
   :width: 400
   :align: center  
   :alt: Selected Services
@@ -102,7 +102,7 @@ Accepting Deals
 Click on the link in your mailbox to go to the campaign overview.
 
 
-.. image:: _static/images/influencer-campaign-overview.png
+.. figure:: _static/images/influencer-campaign-overview.png
   :width: 600
   :align: center  
   :alt: Campaign Overview
@@ -141,7 +141,7 @@ Passwords must have at least one one digit ('0'-'9') and one non-alphanumeric ch
 
 Pick the Markets where your in active or where your interest lies.
 
-.. image:: _static/images/register.png
+.. figure:: _static/images/register.png
   :width: 400
   :align: center  
   :alt: Complete Registration    
@@ -160,7 +160,7 @@ At the moment of writing only Twitter is activated, eventually this will change 
 On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are.
 In each role you can connect different social-channels and choose different market-niches.
 
-.. image:: _static/images/profile.png
+.. figure:: _static/images/profile.png
   :width: 800
   :align: center  
   :alt: Complete Registration 
