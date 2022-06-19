@@ -90,7 +90,7 @@ When a brand sends out an invite for a service in their campaign, this invite is
   Influencer Invitation
 
 
-From this point influencers can accept the presented deal until the budget of the campaign-service is filled.
+From this point all invited influencers can accept the presented deal until the budget of the campaign-service is filled.
 
 It depends on the number available influencers in the selected market-niche and the available service-budget, how fast an influencer must react on the invite.
 We have several systems in-place which regulate the participation of influencers to have the best outcome for the brands promotion. 
@@ -99,15 +99,38 @@ We have several systems in-place which regulate the participation of influencers
 Accepting Deals
 ----------------
 
-After you've send the form, you'll receive a message in your email box (If you can't find it in your imbox, please check your spambox). This includes a link to complete your registration.
+Click on the link in your mailbox to go to the campaign overview.
 
-.. image:: _static/images/activate.png
-  :width: 400
+
+.. image:: _static/images/influencer-campaign-overview.png
+  :width: 600
   :align: center  
-  :alt: Chirpley Activation
+  :alt: Campaign Overview
+
+  Campaign overview with in the left column the campaigns to which you are invited.
 
 
-Follow the link and you'll be served with some questions to complete your registration.
+Select the campaign with the new deals (recognizable by the alarm bell icon with a positive value).
+Now the information and deals are loaded in the center screen.
+In top you'll find the details about the campaign and the filters for the deals in that particular campaign.
+
+
+============      ==========
+Filter type       Content
+============      ==========
+New Deal          New deals which you can accept.
+Create Content    Deals which you accepted but still need to create content for.
+Pending           Deals which are waiting to be reviewed by the brand. 
+Review            Deals which are waiting to be reviewed by you.
+Accepted          Deals which are accepted and are waiting to be performed.
+Declined          Deals which are declined by you or the brand.
+Completed         Deals which are completed. 
+Cancelled         Deals which are cancelled by the brand for any reason.
+Chat              Deals with an active chat-session.
+
+
+In the bottom grid the deals are displayed along with the type and price.
+When selecting a deal, the details are displayed on the right.
 
 
 Set Content for Deals
