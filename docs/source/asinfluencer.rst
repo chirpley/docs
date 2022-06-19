@@ -7,12 +7,13 @@ Chirpley as Influencer
   :align: center  
   :alt: Nano = Mega
 
+  Where one grows, all grow together as a flock.
 
 
 The Chirpley platform focusses especially on nano and micro-influencers. We believe the message of many is stronger than the power of one.
 Therefor the platform has been developed to be as welcoming as possible, with an eye for the new born chicks, and the established influencer as well.
-Where one grows, we all grow together as a flock.
 
+Where one grows, all grow together as a flock.
 
 Profile Page
 ------------
@@ -48,10 +49,22 @@ At the bottom of your business card, incase we could gather enough data, you can
 Be sure to share your business card so you'll get noticed by brands.
 
 
+Referral Link
+------------
+
+We've something called the lifelong referral bonus.
+How it works: you'll receive a stunning 20% of the Chirpley fees (which is 10% of each transaction) paid by anyone who creates a Chirpley account using your personal referral link.
+
+This means that if you have 5 referees who participate on the same campaign and each earn $100, you'll receive $10 (20% of their 10% fees) by doing absolutely nothing.
+
+Your referral link starts with "https://app.chirpley.ai/Account/Register?referral=........" and can be found on your profile-page.
+
+
+
 Receiving Invites
 ------------
 
-To be able to register for an account you'll need to be 16yrs or older.
+To be able to receive invites to campaigns one must have at least 
 This is due to strict privacy regulations in some parts of the world.
 
 .. image:: _static/images/signup.png
