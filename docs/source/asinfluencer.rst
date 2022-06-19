@@ -70,7 +70,7 @@ To be able to receive invites to campaigns you must have at least 20 followers a
 .. image:: _static/images/influencer-step5.png
   :width: 400
   :align: center  
-  :alt: Selected Services
+  :alt: Active Services
 
   Active Services
 
@@ -86,7 +86,7 @@ When a brand sends out an invite for a service in their campaign, this invite is
   :width: 400
   :align: center  
   :alt: Selected Services
-
+  
   Influencer Invitation
 
 
@@ -127,7 +127,7 @@ Declined          Deals which are declined by you or the brand.
 Completed         Deals which are completed. 
 Cancelled         Deals which are cancelled by the brand for any reason.
 Chat              Deals with an active chat-session.
-
+============      ==========
 
 In the bottom grid the deals are displayed along with the type and price.
 When selecting a deal, the details are displayed on the right.
