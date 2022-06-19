@@ -18,7 +18,7 @@ Where one grows, all grow together as a flock.
 Profile Page
 ------------
 
-Once you've logged-in to your account, you can open your profile page by clicking on the account-icon in the navigation-menu on the left.
+Once you've logged-in on the platform (https://app.chirpley.ai/Account/Login) , you can open your account-page by clicking on the account-icon in the left menu.
 
 
 .. figure:: _static/images/influencer-profile.png
@@ -31,50 +31,69 @@ Once you've logged-in to your account, you can open your profile page by clickin
 Here you'll find some basic information about the connected social-media channels, your account settings, referral-link and a link to your public business card. 
 
 
-Chirpley Business Card
+Public Profile-page
 ------------
 
-The moment you've connected your socials as an influencer, a personal business card is created.
+The moment you've connected your socials as an influencer, a public profile-page is created.
 
 .. figure:: _static/images/businesscard.png
   :width: 600
   :align: center  
   :alt: Cancel Campaign
   
-  Your public business card with stats.  
+  Your public profile-page with stats.  
 
-Here you can see your stats as an influencer and an overview of the data we've analyzed.
+Here you can show your stats as an influencer and an overview of the data we've analyzed.
 At the bottom of your business card, incase we could gather enough data, you can find detailed information about your audience.
 
-Be sure to share your business card so you'll get noticed by brands.
+Be sure to share your public profile-page so you'll get noticed by brands.
 
 
 Referral Link
 ------------
 
 We've something called the lifelong referral bonus.
-How it works: you'll receive a stunning 20% of the Chirpley fees (which is 10% of each transaction) paid by anyone who creates a Chirpley account using your personal referral link.
+How it works: you'll receive a stunning 20% of the Chirpley fees (which is 10% of each transaction) paid by anyone who creates an account on Chirpley using your personal referral link.
 
 This means that if you have 5 referees who participate on the same campaign and each earn $100, you'll receive $10 (20% of their 10% fees) by doing absolutely nothing.
 
-Your referral link starts with "https://app.chirpley.ai/Account/Register?referral=........" and can be found on your profile-page.
+Your referral link starts with "https://app.chirpley.ai/Account/Register?referral=........" and can be found on your account-page.
 
 
 
 Receiving Invites
 ------------
 
-To be able to receive invites to campaigns one must have at least 
-This is due to strict privacy regulations in some parts of the world.
+To be able to receive invites to campaigns you must have at least 20 followers and have active services in your connected channels.
 
-.. image:: _static/images/signup.png
+
+.. image:: _static/images/influencer-step5.png
   :width: 400
   :align: center  
-  :alt: Chirpley Sign-up
+  :alt: Selected Services
+
+  Active Services
 
 
-Just go to https://app.chirpley.ai/Account/Register in your browser of choice and fill in your emailadres and date of birth.
-Before you hit the red Register-button you can choose to be updated on news and upcoming features by clicking the check-box.
+To edit these services and the pricing, just go to your account-page (https://app.chirpley.ai/Account/Profile)
+and click on your connected channel (make sure you're in influencer-mode by checking the switch below your username)
+in option 5 (just click de red pencil behind it), you're able to activate the services you wish to provide.
+
+When a brand sends out an invite for a service in their campaign, this invite is send to all influencers matching the service and the optional added favorites.
+
+
+.. image:: _static/images/influencer-invite.png
+  :width: 400
+  :align: center  
+  :alt: Selected Services
+
+  Influencer Invitation
+
+
+From this point influencers can accept the presented deal until the budget of the campaign-service is filled.
+
+It depends on the number available influencers in the selected market-niche and the available service-budget, how fast an influencer must react on the invite.
+We have several systems in-place which regulate the participation of influencers to have the best outcome for the brands promotion. 
 
 
 Accepting Deals
