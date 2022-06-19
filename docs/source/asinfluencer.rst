@@ -3,9 +3,10 @@ Chirpley as Influencer
 
 
 .. figure:: _static/images/nano-mega.png
-  :width: 600
+  :width: 800
   :align: center  
   :alt: Nano = Mega
+
 
 
 The Chirpley platform focusses especially on nano and micro-influencers. We believe the message of many is stronger than the power of one.
@@ -20,7 +21,7 @@ Once you've logged-in to your account, you can open your profile page by clickin
 
 
 .. figure:: _static/images/influencer-profile.png
-  :width: 300
+  :width: 600
   :align: center  
   :alt: Cancel Campaign
   
@@ -35,13 +36,16 @@ Chirpley Business Card
 The moment you've connected your socials as an influencer, a personal business card is created.
 
 .. figure:: _static/images/businesscard.png
-  :width: 300
+  :width: 600
   :align: center  
   :alt: Cancel Campaign
   
   Your public business card with stats.  
 
 Here you can see your stats as an influencer and an overview of the data we've analyzed.
+At the bottom of your business card, incase we could gather enough data, you can find detailed information about your audience.
+
+Be sure to share your business card so you'll get noticed by brands.
 
 
 Receiving Invites
