@@ -115,9 +115,9 @@ Now the information and deals are loaded in the center screen.
 In top you'll find the details about the campaign and the filters for the deals in that particular campaign.
 
 
-============    ==========
+==============  ==========
 Filter type     Deal Type
-============    ==========
+==============  ==========
 New Deal        New deals which you can accept.
 Create Content  Deals which you accepted but still need to create content for.
 Pending         Deals which are waiting to be reviewed by the brand. 
@@ -127,7 +127,7 @@ Declined        Deals which are declined by you or the brand.
 Completed       Deals which are completed. 
 Cancelled       Deals which are cancelled by the brand for any reason.
 Chat            Deals with an active chat-session.
-============    ==========
+==============  ==========
 
 
 In the bottom grid the deals are displayed along with the type and price.
