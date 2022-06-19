@@ -116,7 +116,7 @@ In top you'll find the details about the campaign and the filters for the deals 
 
 
 ============  ==========
-Service type  Form Items
+Filter type   Deal Type
 ============  ==========
 New Deal      New deals which you can accept.
 Create        Deals which you accepted but still need to create content for.
@@ -127,30 +127,8 @@ Declined      Deals which are declined by you or the brand.
 Completed     Deals which are completed. 
 Cancelled     Deals which are cancelled by the brand for any reason.
 Chat          Deals with an active chat-session.
-
-              - content of comment(fix content,change in own-words,write based on instructions).
-Tweet         - Content of tweet(fix content,change in own-words,write based on instructions)
-
-              - Media if service is of this type. 
-Quote         - URL of tweet to be shared.
-
-              - content of quote(fix content,change in own-words,write based on instructions).
-              - Media if service is of this type. 
 ============  ==========
 
-===========       =======
-Filter type       Content
-===========       =======
-New Deal          New deals which you can accept.
-Create Content    Deals which you accepted but still need to create content for.
-Pending           Deals which are waiting to be reviewed by the brand. 
-Review            Deals which are waiting to be reviewed by you.
-Accepted          Deals which are accepted and are waiting to be performed.
-Declined          Deals which are declined by you or the brand.
-Completed         Deals which are completed. 
-Cancelled         Deals which are cancelled by the brand for any reason.
-Chat              Deals with an active chat-session.
-===========       =======
 
 In the bottom grid the deals are displayed along with the type and price.
 When selecting a deal, the details are displayed on the right.
