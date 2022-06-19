@@ -1,20 +1,47 @@
 Chirpley as Influencer
 =====
 
-Our platform is designed in such a way that it doesn't matter if you're a brand, influencer, content creator or just an average Joe/Jane.
-Anyone can register and everyone has the same functionalities at his/her disposal.
-You can be a brand and an influencer with the same account, starting a campaign as a brand and at the same time create content for other brands just by flipping a switch.
 
-Let me take you down the rabbithole and introduce you to our ever evolving platform.
+.. figure:: _static/images/nano-mega.png
+  :width: 600
+  :align: center  
+  :alt: Nano = Mega
 
-It all starts with the....
 
-Chirpley Businesscard
+The Chirpley platform focusses especially on nano and micro-influencers. We believe the message of many is stronger than the power of one.
+Therefor the platform has been developed to be as welcoming as possible, with an eye for the new born chicks, and the established influencer as well.
+Where one grows, we all grow together as a flock.
+
+
+Profile Page
 ------------
 
-Our platform is designed in such a way that it doesn't matter if you're a brand, influencer, content creator or just an average Joe/Jane.
-Anyone can register and everyone has the same functionalities at his/her disposal.
-You can be a brand and an influencer with the same account, starting a campaign as a brand and at the same time create content for other brands just by flipping a switch.
+Once you've logged-in to your account, you can open your profile page by clicking on the account-icon in the navigation-menu on the left.
+
+
+.. figure:: _static/images/influencer-profile.png
+  :width: 300
+  :align: center  
+  :alt: Cancel Campaign
+  
+  Your personal user-profile page 
+
+Here you'll find some basic information about the connected social-media channels, your account settings, referral-link and a link to your public business card. 
+
+
+Chirpley Business Card
+------------
+
+The moment you've connected your socials as an influencer, a personal business card is created.
+
+.. figure:: _static/images/businesscard.png
+  :width: 300
+  :align: center  
+  :alt: Cancel Campaign
+  
+  Your public business card with stats.  
+
+Here you can see your stats as an influencer and an overview of the data we've analyzed.
 
 
 Receiving Invites
@@ -26,7 +53,7 @@ This is due to strict privacy regulations in some parts of the world.
 .. image:: _static/images/signup.png
   :width: 400
   :align: center  
-  :alt: Chirpley Signup
+  :alt: Chirpley Sign-up
 
 
 Just go to https://app.chirpley.ai/Account/Register in your browser of choice and fill in your emailadres and date of birth.

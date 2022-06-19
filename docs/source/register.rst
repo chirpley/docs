@@ -5,7 +5,7 @@ Our platform is designed in such a way that it doesn't matter if you're a brand,
 Anyone can register and everyone has the same functionalities at his/her disposal.
 You can be a brand and an influencer with the same account, starting a campaign as a brand and at the same time create content for other brands just by flipping a switch.
 
-Let me take you down the rabbithole and introduce you to our ever evolving platform.
+Let me take you down the rabbit hole and introduce you to our ever evolving platform.
 
 It all starts with the....
 
@@ -18,17 +18,17 @@ This is due to strict privacy regulations in some parts of the world.
 .. figure:: _static/images/signup.png
   :width: 400
   :align: center  
-  :alt: Chirpley Signup
+  :alt: Chirpley Sign-up
 
 
-Just go to https://app.chirpley.ai/Account/Register in your browser of choice and fill in your emailadres and date of birth.
+Just go to https://app.chirpley.ai/Account/Register in your browser of choice and fill in your email-address and date of birth.
 Before you hit the red Register-button you can choose to be updated on news and upcoming features by clicking the check-box.
 
 
 Activation
 ----------------
 
-After you've send the form, you'll receive a message in your email box (If you can't find it in your imbox, please check your spambox). This includes a link to complete your registration.
+After you've send the form, you'll receive a message in your email box (If you can't find it in your inbox, please check your spam-box). This includes a link to complete your registration.
 
 .. figure:: _static/images/activate.png
   :width: 400
@@ -73,7 +73,16 @@ In each role you can connect different social-channels and choose different mark
   :alt: Complete Registration 
 
 
-Click on the Twitter icon and you'll be presented with a questionairy to connect your twitteraccount to your Chirpley-account.
+Connect as Influencer
+------------
+
+For influencers a twitter-account needs to have a minimum of 100 followers and at least 20 own tweets.(retweets and replies are excluded) to be able to connect your Twitter)
+The moment you've connected your social-media account with the platform, our automated system calculates the value of your account based the content.
+In step 6 of the questionary you'll find the results of this calculation and the pricing your can receive for your selected services.
+You're able to adjust these values by 10%.  
+
+
+Click on the Twitter icon and you'll be presented with a questionary to connect your Twitter account to your Chirpley-account.
 
 .. |connect1| image:: _static/images/influencer-step1a.png
     :scale: 30%
@@ -108,19 +117,13 @@ Click on the Twitter icon and you'll be presented with a questionairy to connect
    | |connect5| | |connect6| | |connect7| | |connect8| |
    +------------+------------+------------+------------+
 
-Connect as Influencer
-------------
 
-For influencers a twitter-account needs to have a minumum of 100 followers and atleast 20 own tweets.(retweets and replies are excluded) to be able to connect your Twitter)
-The moment you've connected your social-media account with the platform, our automated system calculates the value of your account based the content.
-In step 6 of the questionairy you'll find the results of this calculation and the pricings your can receive for your selected services.
-You're able to adjust these values by 10%.
 
 Connect as Brand
 ------------
 
-Twitter-accounts of brands and marketeers aren't limited and the questionairy resembles that of influencers accept for the service and niche part.
-These settings are intergrated in the createcampaign-flow.
+Twitter-accounts of brands and marketeers aren't limited and the questionary resembles that of influencers accept for the service and niche part.
+These settings are integrated in the create campaign-flow.
 
 .. note::
 
