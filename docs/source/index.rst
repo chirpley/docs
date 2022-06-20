@@ -37,3 +37,4 @@ Contents
    asbrand
    asinfluencer
    wallet
+   faqs
