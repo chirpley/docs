@@ -180,32 +180,34 @@ Once you've set the content, click on send.
    +-------------+-------------+
 
  
-Now the brand will receive a request to review your content where the brand can approve, change or decline the content.
+Now the brand will receive a request to review your content where the brand has 3 options approve, change or decline the content.
 
-- When the brand accepts your proposed content the deals is set and will be scheduled for publication.
-The deal will have the status "accepted" until it is performed.
+- The brand accepts your proposed content: The deals is set and will be scheduled for publication.
+  The deal will have the status "accepted" until it is performed.
 
-- When the deal is declined by the brand, the deal will be cancelled and no further action is needed.
-The deal will have the status "declined".
+- The content is declined by the brand: The deal will be cancelled and no further action is needed.
+  The deal will have the status "declined".
 
-- When the brand changes the proposed content, you will receive a request to review the changes and accept, change or cancel the deal.
-The deal will have the status "review"
+- The brand changes the proposed content: You will receive a request to review the changes and accept, change or cancel the deal.
+  The deal will have the status "review".
 
-When both influencer and brand have accepted the content the deal will be scheduled for publication.
+When both influencer and brand have finally agreed on the content, the deal will be scheduled for publication.
 
 
 Communicate with Brand
 ------------
 
+.. |chaticon| image:: _static/images/chat-icon.svg
+   :height: 18px
+
+If something is unclear about the requested content you can contact the brand while the deal is active.
+Just click on the |chaticon| icon in the deal-card and a chat-box will open in the right-pane.
+
+
+Payment for services
+------------
 
 
 Tips
 ------------
-
-Twitter-accounts of brands and marketeers aren't limited and the questionairy resembles that of influencers accept for the service and niche part.
-These settings are intergrated in the createcampaign-flow.
-
-.. note::
-
-To change these setting in the future you can just click the Social-media icon in your profile (https://app.chirpley.ai/Account/Profile) and edit them thereafter.
 
