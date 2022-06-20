@@ -96,9 +96,6 @@ It depends on the number available influencers in the selected market-niche and 
 We have several systems in-place which regulate the participation of influencers to have the best outcome for the brands promotion. 
 
 
-Accepting Deals
-----------------
-
 Click on the link in your mailbox to go to the campaign overview.
 
 
@@ -134,99 +131,73 @@ In the bottom grid the deals are displayed along with the type and price.
 When selecting a deal, the details are displayed on the right.
 
 
-Set Content for Deals
-------------
+Accepting Deals
+----------------
 
 Now you're able to accept or decline the deal opened in the right pane until the campaign-budget is filled.
 Once the campaign-budget for this deal is filled, the window closes and you won't be able to accept the deal anymore.
 
-.. |invite1| figure:: _static/images/influencer-like-deal.png
+.. |invite1| image:: _static/images/influencer-like-deal.png
     :scale: 50%
 
-    Like deal
-
-.. |invite2| figure:: _static/images/influencer-comment-deal.png
+.. |invite2| image:: _static/images/influencer-comment-deal.png
     :scale: 50%
 
-    Comment deal
 
-.. |invite3| figure:: _static/images/influencer-set-content.png
-    :scale: 50%
-
-    Set Content
-
-
-.. table:: Influencer deals
+.. table:: Accept deals
    :align: center
 
-   +-------------+-------------+-------------+
-   |  |invite1|  |  |invite2|  |  |invite3|  |
-   +-------------+-------------+-------------+
+   +-------------+-------------+
+   |  |invite1|  |  |invite2|  |
+   +-------------+-------------+
 
  
- 
+After you've accepted a deal which doesn't need any further action, the deal will get the status accepted.
+Deals that don't need any further action are: Likes, Retweets, Follows and comments/quotes/tweets with brand-content.
 
-At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
-We'll be activating more markets later this year.
+
+Setting the Content
+----------------
+
+
+If you've accepted a deal which requires you to write your own-content, the deal will receive the "Set Content" status.
+By selecting the deal in de grid a form opens in the right-pane. Here you'll see a content field which might contain text the brand wrote as an example.
+Below the textarea you'll find instructions from the brand on how to alter or write the content for this deal.
+Once you've set the content, click on send.
+
+
+.. |invite4| image:: _static/images/influencer-set-content.png
+    :scale: 50%
+
+.. |invite5| image:: _static/images/influencer-comment-deal.png
+    :scale: 50%
+
+.. table:: Set Content
+   :align: center
+
+   +-------------+-------------+
+   |  |invite4|  |  |invite5|  |
+   +-------------+-------------+
+
+ 
+Now the brand will receive a request to review your content where the brand can approve, change or decline the content.
+
+- When the brand accepts your proposed content the deals is set and will be scheduled for publication.
+The deal will have the status "accepted" until it is performed.
+
+- When the deal is declined by the brand, the deal will be cancelled and no further action is needed.
+The deal will have the status "declined".
+
+- When the brand changes the proposed content, you will receive a request to review the changes and accept, change or cancel the deal.
+The deal will have the status "review"
+
+When both influencer and brand have accepted the content the deal will be scheduled for publication.
+
 
 Communicate with Brand
 ------------
 
-Before you can make use of the platform as influencer or brand, you'll need to connect at least one social-channel.
-All your account-settings as brand of influencer can be set and edited from your profile-page.(https://app.chirpley.ai/Account/Profile)
-At the moment of writing only Twitter is activated, eventually this will change later this year once development progresses.
 
-On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are.
-In each role you can connect different social-channels and choose different market-niches.
-
-.. figure:: _static/images/profile.png
-  :width: 800
-  :align: center  
-  :alt: Complete Registration 
-
-
-Click on the Twitter icon and you'll be presented with a questionairy to connect your twitteraccount to your Chirpley-account.
-
-.. |connect1| image:: _static/images/influencer-step1a.png
-    :scale: 30%
-
-.. |connect2| image:: _static/images/influencer-step1b.png
-    :scale: 30%
-
-.. |connect3| image:: _static/images/influencer-step2.png
-    :scale: 30%
-
-.. |connect4| image:: _static/images/influencer-step3.png
-    :scale: 30%  
-
-.. |connect5| image:: _static/images/influencer-step4.png
-    :scale: 30%
-
-.. |connect6| image:: _static/images/influencer-step5.png
-    :scale: 30%
-
-.. |connect7| image:: _static/images/influencer-step6.png
-    :scale: 30%     
-
-.. |connect8| image:: _static/images/influencer-step7.png
-    :scale: 30% 
-
-.. table:: Connect Twitter
-   :align: center
-
-   +------------+------------+------------+------------+
-   | |connect1| | |connect2| | |connect3| | |connect4| |
-   +------------+------------+------------+------------+
-   | |connect5| | |connect6| | |connect7| | |connect8| |
-   +------------+------------+------------+------------+
-
-Overview of Campaign
-------------
-
-For influencers a twitter-account needs to have a minumum of 100 followers and atleast 20 own tweets.(retweets and replies are excluded) to be able to connect your Twitter)
-The moment you've connected your social-media account with the platform, our automated system calculates the value of your account based the content.
-In step 6 of the questionairy you'll find the results of this calculation and the pricings your can receive for your selected services.
-You're able to adjust these values by 10%.
 
 Tips
 ------------
