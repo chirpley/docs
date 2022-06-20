@@ -110,9 +110,9 @@ Click on the link in your mailbox to go to the campaign overview.
   Campaign overview with in the left column the campaigns to which you are invited.
 
 
-Select the campaign with the new deals (recognizable by the alarm bell icon with a positive value).
-Now the information and deals are loaded in the center screen.
-In top you'll find the details about the campaign and the filters for the deals in that particular campaign.
+Select the campaign with the new deals (recognizable by an alarm-icon with a positive value).
+Now the campaign-information and deals are loaded in the center screen.
+In the top-section you'll find details about the campaign and the filters for the deals in that particular campaign.
 
 
 ==============  ==========
@@ -137,15 +137,33 @@ When selecting a deal, the details are displayed on the right.
 Set Content for Deals
 ------------
 
-Fill-in a username of your choice and choose a password.
-Passwords must have at least one one digit ('0'-'9') and one non-alphanumeric character.
+Now you're able to accept or decline the deal opened in the right pane until the campaign-budget is filled.
+Once the campaign-budget for this deal is filled, the window closes and you won't be able to accept the deal anymore.
 
-Pick the Markets where your in active or where your interest lies.
+.. |invite1| figure:: _static/images/influencer-like-deal.png
+    :scale: 50%
 
-.. figure:: _static/images/register.png
-  :width: 400
-  :align: center  
-  :alt: Complete Registration    
+    Like deal
+
+.. |invite2| figure:: _static/images/influencer-comment-deal.png
+    :scale: 50%
+
+    Comment deal
+
+.. |invite3| figure:: _static/images/influencer-set-content.png
+    :scale: 50%
+
+    Set Content
+
+
+.. table:: Influencer deals
+   :align: center
+
+   +-------------+-------------+-------------+
+   |  |invite1|  |  |invite2|  |  |invite3|  |
+   +-------------+-------------+-------------+
+
+ 
  
 
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first.
