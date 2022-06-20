@@ -225,7 +225,7 @@ If something is unclear about the requested content you can contact the brand wh
 Just click on the |chaticon| icon in the deal-card and a chat-box will open in the right panel.
 
 .. figure:: _static/images/chat-with-brand.png
-  :width: 600
+  :width: 400
   :align: center  
   :alt: Chat function
 
