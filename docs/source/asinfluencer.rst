@@ -224,10 +224,15 @@ Communicate with Brand
 If something is unclear about the requested content you can contact the brand while the deal is not cancelled,declined or completed.
 Just click on the |chaticon| icon in the deal-card and a chat-box will open in the right panel.
 
+.. figure:: _static/images/chat-with-brand.png
+  :width: 600
+  :align: center  
+  :alt: Chat function
+
+  Chat with the brand about the deal or content.
 
 
 
-When a deal has been published an
 
 
 Tips

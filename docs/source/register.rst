@@ -35,6 +35,8 @@ After you've send the form, you'll receive a message in your email box (If you c
   :align: center  
   :alt: Chirpley Activation
 
+  Activate your account
+
 
 Follow the link and you'll be served with some questions to complete your registration.
 
@@ -50,7 +52,9 @@ Pick the Markets where your in active or where your interest lies.
 .. figure:: _static/images/register.png
   :width: 400
   :align: center  
-  :alt: Complete Registration    
+  :alt: Complete Registration 
+
+  Complete your registration   
 
 
 
@@ -70,7 +74,9 @@ In each role you can connect different social-channels and choose different mark
 .. figure:: _static/images/profile.png
   :width: 800
   :align: center  
-  :alt: Complete Registration 
+  :alt: Setup your profile 
+
+  Set up your profile and connect your channel
 
 
 Connect as Influencer
@@ -135,7 +141,9 @@ Profile Settings
 
 Please take your time to upload a profile-image in the settings on the right. This will help you get noticed by marketers. 
 
-.. image:: _static/images/profile-image.png
+.. figure:: _static/images/profile-image.png
   :width: 400
   :align: center  
-  :alt: Complete Registration
+  :alt: Profile settings
+
+  Upload your profile image
