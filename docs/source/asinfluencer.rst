@@ -134,7 +134,7 @@ When selecting a deal, the details are displayed on the right.
 Accepting Deals
 ----------------
 
-Now you're able to accept or decline the deal opened in the right pane until the campaign-budget is filled.
+Now you're able to accept or decline the deal opened in the right panel until the campaign-budget is filled.
 Once the campaign-budget for this deal is filled, the window closes and you won't be able to accept the deal anymore.
 
 .. |invite1| image:: _static/images/influencer-like-deal.png
@@ -161,7 +161,7 @@ Setting the Content
 
 
 If you've accepted a deal which requires you to write your own-content, the deal will receive the "Set Content" status.
-By selecting the deal in de grid a form opens in the right-pane. Here you'll see a content field which might contain text the brand wrote as an example.
+By selecting the deal in de grid a form opens in the right panel. Here you'll see a content field which might contain text the brand wrote as an example.
 Below the textarea you'll find instructions from the brand on how to alter or write the content for this deal.
 Once you've set the content, click on send.
 
@@ -194,18 +194,40 @@ Now the brand will receive a request to review your content where the brand has 
 When both influencer and brand have finally agreed on the content, the deal will be scheduled for publication.
 
 
+Automation
+------------
+
+The Chirpley platform is an automated platform. Therefor, when deals are accepted by both parties, there's no need for any action on either side.
+The service agreed on will be scheduled and completed by the system.
+
+
+Payment for services
+------------
+
+Once a deal is completed and the system has performed the social action, the payment will be done.
+In the top panel you can see the amount you've earned in this particular campaign.
+
+.. figure:: _static/images/earned-in-campaign.png
+  :width: 600
+  :align: center  
+  :alt: Campaign Overview
+
+  Earned in campaign.
+
+
 Communicate with Brand
 ------------
 
 .. |chaticon| image:: _static/images/chat-icon.svg
    :height: 18px
 
-If something is unclear about the requested content you can contact the brand while the deal is active.
-Just click on the |chaticon| icon in the deal-card and a chat-box will open in the right-pane.
+If something is unclear about the requested content you can contact the brand while the deal is not cancelled,declined or completed.
+Just click on the |chaticon| icon in the deal-card and a chat-box will open in the right panel.
 
 
-Payment for services
-------------
+
+
+When a deal has been published an
 
 
 Tips
