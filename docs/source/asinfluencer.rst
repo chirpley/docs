@@ -232,9 +232,3 @@ Just click on the |chaticon| icon in the deal-card and a chat-box will open in t
   Chat with the brand about the deal or content.
 
 
-
-
-
-Tips
-------------
-
