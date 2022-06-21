@@ -1,0 +1,2 @@
+sphinx==3.4.3
+sphinxcontrib-fancybox==0.3.5
