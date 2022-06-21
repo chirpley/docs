@@ -45,7 +45,7 @@ Just click on the "Connect Wallet" button and a pop-up shows with the connection
 
   Connect your web3 wallet
 
-Here you can choose between the Metamask browser extension and WalletConnect.
+Here you can choose between the Metamask browser extension and WalletConnect. (https://walletconnect.com/)
 WalletConnect provides you with a QR-code which you can scan with supporting mobile-wallets.
 
 .. figure:: _static/images/qr-code.png
