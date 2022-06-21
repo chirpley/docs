@@ -137,10 +137,10 @@ Accepting Deals
 Now you're able to accept or decline the deal opened in the right panel until the campaign-budget is filled.
 Once the campaign-budget for this deal is filled, the window closes and you won't be able to accept the deal anymore.
 
-.. |invite1| image:: _static/images/influencer-like-deal.png
+.. |invite1| thumbnail:: _static/images/influencer-like-deal.png
     :scale: 50%
 
-.. |invite2| image:: _static/images/influencer-comment-deal.png
+.. |invite2| thumbnail:: _static/images/influencer-comment-deal.png
     :scale: 50%
 
 
@@ -166,10 +166,10 @@ Below the textarea you'll find instructions from the brand on how to alter or wr
 Once you've set the content, click on send.
 
 
-.. |invite4| image:: _static/images/influencer-set-content.png
+.. |invite4| thumbnail:: _static/images/influencer-set-content.png
     :scale: 50%
 
-.. |invite5| image:: _static/images/influencer-comment-deal.png
+.. |invite5| thumbnail:: _static/images/influencer-comment-deal.png
     :scale: 50%
 
 .. table:: Set Content
