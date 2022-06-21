@@ -2,7 +2,7 @@ Chirpley as Influencer
 =====
 
 
-.. figure:: _static/images/nano-mega.png
+.. thumbnail:: _static/images/nano-mega.png
   :width: 800
   :align: center  
   :alt: Nano = Mega
