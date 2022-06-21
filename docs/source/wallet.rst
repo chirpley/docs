@@ -38,20 +38,24 @@ Connecting External wallet
 By connecting your web3 wallet you'll be able to withdraw and deposit funds. At the moment we're only supporting the Binance Smart Chain.
 Just click on the "Connect Wallet" button and a pop-up shows with the connection options.
 
-.. figure:: _static/images/connect-wallet1.png
+.. thumbnail:: _static/images/connect-wallet1.png
   :width: 400
   :align: center  
   :alt: Connect Wallet
+  :show_caption: True
+  :title: 
 
   Connect your web3 wallet
 
 Here you can choose between the Metamask browser extension and WalletConnect. (https://walletconnect.com/)
 WalletConnect provides you with a QR-code which you can scan with supporting mobile-wallets.
 
-.. figure:: _static/images/qr-code.png
+.. thumbnail:: _static/images/qr-code.png
   :width: 400
   :align: center  
   :alt: QR-code
+  :show_caption: True
+  :title: 
 
   WalletConnect QR-code
 
@@ -83,10 +87,12 @@ Disconnect
 To disconnect your external wallet click on the "Disconnect" button.
 Incase you used the Metamask browser extension, you should disconnect it from your Metamask wallet.
 
-.. figure:: _static/images/disconnect-metamask.png
+.. thumbnail:: _static/images/disconnect-metamask.png
   :width: 400
   :align: center  
   :alt: Disconnect Metamask
+  :show_caption: True
+  :title: 
 
   Disconnect Metamask
 

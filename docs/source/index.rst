@@ -1,10 +1,12 @@
 Welcome to Chirpley's documentation!
 ===================================
 
-.. image:: _static/images/doc-banner.jpg
+.. thumbnail:: _static/images/doc-banner.jpg
   :width: 800
   :align: center
   :alt: Chirpley Documentation
+  :show_caption: True
+  :title:
   
 **Chirpley** (/tʃəːp liː/) 
 

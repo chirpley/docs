@@ -12,104 +12,128 @@ To create a campaign go to the campaign page (https://app.chirpley.ai/Campaign/C
 This will take you to a new page where you will be presented with a questionary which will guide you through the process.
 
 
-.. figure::  _static/images/campaign-step1.png
+.. thumbnail::  _static/images/campaign-step1.png
   :width: 500
   :align: center 
+  :show_caption: True
+  :title:
  
   Set a attractive and recognizable name for your campaign.
   This is the first thing an influencer sees when he/she gets an invite.
 
 
 
-.. figure::  _static/images/campaign-step2.png
+.. thumbnail::  _static/images/campaign-step2.png
   :width: 500
   :align: center
   :alt: Campaign Budget
+  :show_caption: True
+  :title:
   
   Set the budget of your campaign, further up in this form you'll be able to spread this over several services.
 
 
-.. figure:: _static/images/campaign-step3.png
+.. thumbnail:: _static/images/campaign-step3.png
   :width: 500
   :align: center
   :alt: Campaign Runtime
+  :show_caption: True
+  :title:
   
   Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
   When choosing ASAP as begin-time, all deal with be executed the moment they are accepted by both parties.
 
 
 
-.. figure:: _static/images/campaign-step4.png
+.. thumbnail:: _static/images/campaign-step4.png
   :width: 500
   :align: center  
   :alt: Campaign Location
+  :show_caption: True
+  :title:
   
   Set the location for your campaign.
 
 
 
-.. figure:: _static/images/campaign-step5.png
+.. thumbnail:: _static/images/campaign-step5.png
   :width: 500
   :align: center  
   :alt: Campaign Language
+  :show_caption: True
+  :title:
   
   Set the language for your campaign.
 
 
-.. figure:: _static/images/campaign-step6.png
+.. thumbnail:: _static/images/campaign-step6.png
   :width: 500
   :align: center  
   :alt: Campaign Goal
+  :show_caption: True
+  :title:
   
   What is the goal of your campaign.
 
 
-.. figure:: _static/images/campaign-step7.png
+.. thumbnail:: _static/images/campaign-step7.png
   :width: 500
   :align: center  
   :alt: Campaign Niches
+  :show_caption: True
+  :title:
   
   What are niches of your campaign.
 
 
-.. figure:: _static/images/campaign-step8.png
+.. thumbnail:: _static/images/campaign-step8.png
   :width: 500
   :align: center  
   :alt: Social Media channels
+  :show_caption: True
+  :title:
   
   Select the social-media channels for your campaign.
 
 
-.. figure:: _static/images/campaign-step9.png
+.. thumbnail:: _static/images/campaign-step9.png
   :width: 500
   :align: center  
   :alt: Campaign Services
+  :show_caption: True
+  :title:
   
   Select the services you which for your campaign.
 
 
-.. figure:: _static/images/campaign-step10.png
+.. thumbnail:: _static/images/campaign-step10.png
   :width: 500
   :align: center  
   :alt: Divide the budget
+  :show_caption: True
+  :title:
   
   Divide the campaign-budget amongst the chosen services.  
 
 
-.. figure:: _static/images/campaign-step11.png
+.. thumbnail:: _static/images/campaign-step11.png
   :width: 500
   :align: center  
   :alt: Campaign Niches
+  :show_caption: True
+  :title:
   
   In the last screen you will be asked to deposit your campaign-budget.
 
 
 After creating a campaign and successfully deposit your budget it's is time to create the deals for the influencers.
 
-.. figure:: _static/images/campaign-step12.png
+.. thumbnail:: _static/images/campaign-step12.png
   :width: 500
   :align: center  
   :alt: Campaign deals
+  :show_caption: True
+  :title:
   
   Set the content for your new campaign.
 
@@ -121,30 +145,36 @@ For the services you've chosen during the creation of the campaign content needs
 On the left you'll find all the services in your campaign. By clicking on them, the service will open in the center of the screen.
 In the top of the center-view you can see a selection of filters which you can use to show different type of cards.(set content, content set etc.)
 
-.. figure:: _static/images/service-header.png
+.. thumbnail:: _static/images/service-header.png
   :width: 600
   :align: center  
   :alt: Service Tabs
+  :show_caption: True
+  :title:
   
   Deals have different statuses during the runtime of the campaign. By clicking on the filters, deals with that status will be loaded in the grid below.
   
 By default the filter "Set content" is activated.
 Until an influencer has accepted a deal, all the shown cards are anonymous except for favorites.
 
-.. figure:: _static/images/cards-anon.png
+.. thumbnail:: _static/images/cards-anon.png
   :width: 600
   :align: center  
   :alt: Service Tabs
+  :show_caption: True
+  :title:
 
   Anonymous cards
 
 To add favorites to a service, just click on the button "Add Favorites".
 This will open a pop-up where your can select your personal favorites to be added to the current service.
 
-.. figure::  _static/images/deals-fav.png
+.. thumbnail::  _static/images/deals-fav.png
   :width: 500
   :align: center
   :alt: Favorites
+  :show_caption: True
+  :title:
   
   At your personal favorites to the campaign.
 
@@ -154,10 +184,12 @@ The final number of influencers accepting your deal might vary due to the value 
 
 
 
-.. figure:: _static/images/deals-like.png
+.. thumbnail:: _static/images/deals-like.png
   :width: 600
   :align: center  
   :alt: Like deals
+  :show_caption: True
+  :title:
   
   View of the like service with 8 selected cards.
 
@@ -213,10 +245,12 @@ and combine the invites of different services (example: like, comment & retweet)
 This way the influencer can make a clear choice on which service they want to perform.
 
 
-.. figure:: _static/images/deals-invite.png
+.. thumbnail:: _static/images/deals-invite.png
   :width: 300
   :align: center  
   :alt: Invite matched influencers
+  :show_caption: True
+  :title:
 
   Click on the "Send Invite" button to invite the influencers.
 
@@ -227,10 +261,12 @@ The all the cards have the status "invited"
 At this point all you need to do is wait until the budget of the service is filled with accepted deals.
 
 
-.. figure:: _static/images/deals-progressbar.png
+.. thumbnail:: _static/images/deals-progressbar.png
   :width: 300
   :align: center  
   :alt: Service deals-progressbar
+  :show_caption: True
+  :title:
   
   After sending-out the invites you can see how far the budget for each service is filled. 
   
@@ -282,10 +318,12 @@ As long as a campaign is active you can start a private chat with influencers.
 This can be useful when the content requires extra information. Just click on the |chaticon| in the card of the influencer to start a conversation.
 
 
-.. figure:: _static/images/deals-chat.png
+.. thumbnail:: _static/images/deals-chat.png
   :width: 300
   :align: center  
   :alt: Cancel Campaign
+  :show_caption: True
+  :title:
   
   When clicking on the |chaticon| in the deal-cards the chatbox opens on the right. 
 
@@ -299,10 +337,12 @@ Cancel Campaign
 
 In case a brand made a mistake with the set content of any other reason, he/she can cancel the campaign at anytime.
 
-.. figure:: _static/images/cancel-campaign.png
+.. thumbnail:: _static/images/cancel-campaign.png
   :width: 300
   :align: center  
   :alt: Cancel Campaign
+  :show_caption: True
+  :title:
   
   By clicking on the Cancel button in the campaign-overview, the campaign will be cancelled immediately. 
 

@@ -15,10 +15,12 @@ Registration
 To be able to register for an account you'll need to be 16yrs or older.
 This is due to strict privacy regulations in some parts of the world.
 
-.. figure:: _static/images/signup.png
+.. thumbnail:: _static/images/signup.png
   :width: 400
   :align: center  
   :alt: Chirpley Sign-up
+  :show_caption: True
+  :title: 
 
 
 Just go to https://app.chirpley.ai/Account/Register in your browser of choice and fill in your email-address and date of birth.
@@ -30,10 +32,12 @@ Activation
 
 After you've send the form, you'll receive a message in your email box (If you can't find it in your inbox, please check your spam-box). This includes a link to complete your registration.
 
-.. figure:: _static/images/activate.png
+.. thumbnail:: _static/images/activate.png
   :width: 400
   :align: center  
   :alt: Chirpley Activation
+  :show_caption: True
+  :title: 
 
   Activate your account
 
@@ -49,10 +53,12 @@ Passwords must have at least one one digit ('0'-'9') and one non-alphanumeric ch
 
 Pick the Markets where your in active or where your interest lies.
 
-.. figure:: _static/images/register.png
+.. thumbnail:: _static/images/register.png
   :width: 400
   :align: center  
   :alt: Complete Registration 
+  :show_caption: True
+  :title: 
 
   Complete your registration   
 
@@ -71,10 +77,12 @@ At the moment of writing only Twitter is activated, eventually this will change 
 On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are.
 In each role you can connect different social-channels and choose different market-niches.
 
-.. figure:: _static/images/profile.png
+.. thumbnail:: _static/images/profile.png
   :width: 800
   :align: center  
   :alt: Setup your profile 
+  :show_caption: True
+  :title: 
 
   Set up your profile and connect your channel
 
@@ -141,9 +149,11 @@ Profile Settings
 
 Please take your time to upload a profile-image in the settings on the right. This will help you get noticed by marketers. 
 
-.. figure:: _static/images/profile-image.png
+.. thumbnail:: _static/images/profile-image.png
   :width: 400
   :align: center  
   :alt: Profile settings
+  :show_caption: True
+  :title: 
 
   Upload your profile image
