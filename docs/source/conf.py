@@ -42,7 +42,7 @@ html_theme_options = { 'logo_only': True, 'display_version': False, }
 epub_show_urls = 'footnote'
 
 images_config = {
-   'override_image_directive': True,
+   'override_image_directive': False,
 }
 
 # -- Custom Css
