@@ -38,7 +38,7 @@ Connecting External wallet
 By connecting your web3 wallet you'll be able to withdraw and deposit funds. At the moment we're only supporting the Binance Smart Chain.
 Just click on the "Connect Wallet" button and a pop-up shows with the connection options.
 
-.. figure:: _static/images/connect-wallet.png
+.. figure:: _static/images/connect-wallet1.png
   :width: 400
   :align: center  
   :alt: Connect Wallet
@@ -68,10 +68,27 @@ Supporting wallets are:
 Withdraw
 ------------
 
+You can withdraw your funds anytime of the day. However the minimum withdraw amount is 50 USD.
 
-Deposit
-------------
+Just make sure your external wallet is connected and fill in the amount you wish to withdraw.
+Next click on withdraw an confirm in the popup.
+
+Your funds will be transferred to you in BUSD.
+
 
 
 Disconnect
 ------------
+
+To disconnect your external wallet click on the "Disconnect" button.
+Incase you used the Metamask browser extension, you should disconnect it from your Metamask wallet.
+
+.. figure:: _static/images/disconnect-metamask.png
+  :width: 400
+  :align: center  
+  :alt: Disconnect Metamask
+
+  Disconnect Metamask
+
+
+Open your Metamask wallet and click on "Connected", find the connection, click on the 3 dots and click on disconnect.
