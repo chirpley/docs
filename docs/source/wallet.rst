@@ -91,4 +91,4 @@ Incase you used the Metamask browser extension, you should disconnect it from yo
   Disconnect Metamask
 
 
-Open your Metamask wallet and click on "Connected", find the connection, click on the 3 dots and click on disconnect.
+Open your Metamask wallet and click on "Connected", find the connection, click the 3 dots and click on disconnect.
