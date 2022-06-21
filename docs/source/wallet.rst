@@ -35,15 +35,15 @@ The bottom-part is for connecting your web3 wallet
 Connecting External wallet
 ------------
 
-By connecting your own web3 wallet you'll be able to withdraw and deposit funds.
-Just click on the "Connect Wallet" button and a pop-up shows with connection options.
+By connecting your web3 wallet you'll be able to withdraw and deposit funds. At the moment we're only supporting the Binance Smart Chain.
+Just click on the "Connect Wallet" button and a pop-up shows with the connection options.
 
 .. figure:: _static/images/connect-wallet.png
   :width: 400
   :align: center  
   :alt: Connect Wallet
 
-  Connect wallet
+  Connect your web3 wallet
 
 
 Withdraw
