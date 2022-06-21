@@ -6,6 +6,7 @@ Chirpley as Influencer
   :width: 800
   :align: center  
   :alt: Nano = Mega
+  :title:
 
   Where one grows, all grow together as a flock.
 
@@ -25,6 +26,7 @@ Once you've logged-in on the platform (https://app.chirpley.ai/Account/Login) , 
   :width: 600
   :align: center  
   :alt: Cancel Campaign
+  :title:
   
   Your personal user-profile page 
 
@@ -40,6 +42,7 @@ The moment you've connected your socials as an influencer, a public profile-page
   :width: 600
   :align: center  
   :alt: Cancel Campaign
+  :title:
   
   Your public profile-page with stats.  
 
@@ -71,6 +74,7 @@ To be able to receive invites to campaigns you must have at least 20 followers a
   :width: 400
   :align: center  
   :alt: Active Services
+  :title:
 
   Active Services
 
@@ -86,6 +90,7 @@ When a brand sends out an invite for a service in their campaign, this invite is
   :width: 400
   :align: center  
   :alt: Selected Services
+  :title:
   
   Influencer Invitation
 
@@ -103,6 +108,7 @@ Click on the link in your mailbox to go to the campaign overview.
   :width: 600
   :align: center  
   :alt: Campaign Overview
+  :title:
 
   Campaign overview with in the left column the campaigns to which you are invited.
 
@@ -139,9 +145,11 @@ Once the campaign-budget for this deal is filled, the window closes and you won'
 
 .. |invite1| image:: _static/images/influencer-like-deal.png
     :scale: 50%
+    :title: Like deal
 
 .. |invite2| image:: _static/images/influencer-comment-deal.png
     :scale: 50%
+    :title: Comment deal
 
 
 .. table:: Accept deals
