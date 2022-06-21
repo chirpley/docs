@@ -1,1 +1,1 @@
-sphinxcontrib-fancybox==0.3.5
+sphinxcontrib-images==0.7.0
