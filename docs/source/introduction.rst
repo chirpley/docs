@@ -6,7 +6,7 @@ It’s a cutting-edge new influencer platform using Artificial Intelligence, Mac
 Chirpley has been set up as an automated platform that is exclusively dedicated to nano- and micro-influencers. And exactly that is where the future of influencer marketing lies, much more than with the mega-influencers with zillions of followers.
 
 
-.. thumbnail:: _static/images/not-alone.png
+.. image:: _static/images/not-alone.png
   :align: center  
   :alt: Chirpley's Vision
 
