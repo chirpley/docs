@@ -34,3 +34,7 @@ a {
 figcaption p {
     font-size: 14px;
 }
+figcaption {
+text-align: center;
+font-size: 14px;
+}
