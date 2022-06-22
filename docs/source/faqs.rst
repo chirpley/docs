@@ -14,8 +14,9 @@ Here we'll collect the most asked questions about the Chirpley platform.
 
    <hr>
 
-:::{dropdown} Dropdown `fade-in-slide-down`
-:animate: fade-in-slide-down
+.. dropdown::
+
+    Dropdown content
 
 What are the requirements to become an influencer on Chirpley?
 ------------
