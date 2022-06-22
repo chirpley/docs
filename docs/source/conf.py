@@ -20,6 +20,7 @@ extensions = [
     'sphinxcontrib.images',
     'sphinxprettysearchresults',
     'sphinxcontrib.youtube',
+    'sphinx_design',
 ]
 
 
