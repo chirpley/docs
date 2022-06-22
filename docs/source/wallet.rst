@@ -4,6 +4,14 @@ Chirpley Wallet
 By clicking on the round button in je bottom-right corner, you can open up your wallet.
 Here you'll see an overview of all the financial information concerning your account.
 
+.. thumbnail:: _static/images/wallet-top.png
+    :group: 1
+
+.. thumbnail:: _static/images/wallet-bottom.png
+    :group: 1
+
+
+
 .. |wallet1| image:: _static/images/wallet-top.png
     :scale: 50%
 
