@@ -17,7 +17,6 @@ Frequently Asked Questions
     +++
     Footer
 
-
 Here we'll collect the most asked questions about the Chirpley platform.
 
 .. raw:: html
