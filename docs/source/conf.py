@@ -18,8 +18,6 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinxcontrib.images',
-    'sphinxprettysearchresults',
-    'sphinxcontrib.youtube',
     'sphinx_design',
 ]
 
