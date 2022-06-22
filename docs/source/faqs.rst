@@ -14,10 +14,6 @@ Here we'll collect the most asked questions about the Chirpley platform.
 
    <hr>
 
-.. dropdown:: Dropdown title
-
-    Dropdown content
-
 
 What are the requirements to become an influencer on Chirpley?
 ------------
