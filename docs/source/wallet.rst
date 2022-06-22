@@ -7,12 +7,23 @@ Here you'll see an overview of all the financial information concerning your acc
 .. thumbnail:: _static/images/wallet-top.png
     :group: 1
     :width: 300 
+    :align: center  
+    :alt: Top part of Wallet
+    :show_caption: True
+    :title: 
+
+    Top part of the wallet    
     
 
 .. thumbnail:: _static/images/wallet-bottom.png
     :group: 1
     :width: 300 
+    :align: center  
+    :alt: Bottom part of Wallet
+    :show_caption: True
+    :title: 
 
+    Bottom part of the wallet 
 
 
 .. |wallet1| image:: _static/images/wallet-top.png
