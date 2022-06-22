@@ -8,15 +8,6 @@ Frequently Asked Questions
   :alt: Faqs
 
 
-
-.. card:: Card Title
-
-    Header
-    ^^^
-    Card content
-    +++
-    Footer
-
 Here we'll collect the most asked questions about the Chirpley platform.
 
 .. raw:: html
