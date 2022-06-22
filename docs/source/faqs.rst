@@ -15,10 +15,11 @@ Here we'll collect the most asked questions about the Chirpley platform.
    <hr>
 
 
-:::{dropdown} What are the requirements to become an influencer on Chirpley?
-We believe everyone has influence and influences their own social environment, therefor everyone has an influential marketing value.
-Unfortunately, due to strict privacy-laws in some parts of the world, you have to be at least 16yr old.
-:::
+.. dropdown:: What are the requirements to become an influencer on Chirpley?
+    We believe everyone has influence and influences their own social environment, therefor everyone has an influential marketing value.
+    Unfortunately, due to strict privacy-laws in some parts of the world, you have to be at least 16yr old.
+    :animate: fade-in-slide-down
+
 
 
 .. raw:: html
