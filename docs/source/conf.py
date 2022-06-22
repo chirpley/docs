@@ -18,7 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinxcontrib.images',
-    'sphinx_panels',
+    'sphinx_design',
 ]
 
 
