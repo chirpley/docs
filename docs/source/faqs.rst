@@ -45,6 +45,7 @@ The system scans accounts and analyses the content and followers.
 If the platform finds engagement to be non-organic the content is excluded from valuation.
 
 Reasons for the algorithm to find engagement to be non-organic are:
+
 - Engagement through giveaways.
 
 - Like and retweet requests from external sources.
