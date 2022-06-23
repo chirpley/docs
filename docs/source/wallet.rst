@@ -37,6 +37,7 @@ Connecting External wallet
 ------------
 
 By connecting your web3 wallet you'll be able to withdraw and deposit funds. At the moment we're only supporting the Binance Smart Chain.
+Check this article to add BSC to your wallet (https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 Just click on the "Connect Wallet" button and a pop-up shows with the connection options.
 
 .. thumbnail:: _static/images/connect-wallet1.png
@@ -78,7 +79,8 @@ You can withdraw your funds anytime of the day. However the minimum withdraw amo
 Just make sure your external wallet is connected and fill in the amount you wish to withdraw.
 Next click on withdraw an confirm in the popup.
 
-Your funds will be transferred to you in BUSD.
+Your funds will be transferred to you in BUSD. 
+To add BUSD to your Metamask wallet click on 'Add token' and copy-paste the BUSD token contract address: 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56
 
 
 
