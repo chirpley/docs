@@ -117,4 +117,4 @@ Therefor we made the decision to use the crypto-market as a testing ground so to
 Do you have a support department
 ------------
 
-Yes, if you have any questions regarding
+Yes, if you have any questions regarding your account, payment or campaigns please send an email to support@chirpley.ai
