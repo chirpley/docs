@@ -8,7 +8,7 @@ Chirpley revolutionizes the process of influencer marketing. It has been devised
 Create Campaign
 ------------
 
-To create a campaign go to the campaign page (https://app.chirpley.ai/Campaign/CampaignOverview) and click on the "Create New Campaign" button.
+To create a campaign, go to the campaign page (https://app.chirpley.ai/Campaign/CampaignOverview) and click on the "Create New Campaign" button.
 This will take you to a new page where you will be presented with a questionary which will guide you through the process.
 
 
@@ -40,8 +40,8 @@ This will take you to a new page where you will be presented with a questionary 
   :show_caption: True
   :title:
   
-  Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs and deals will be performed.
-  When choosing ASAP as begin-time, all deal with be executed the moment they are accepted by both parties.
+  Set the runtime for your campaign, you can set a begin-time and end-time in which your campaign runs, and deals will be performed.
+  When choosing ASAP as begin-time, all deal with be executed the moment both parties accept them.
 
 
 
@@ -126,7 +126,7 @@ This will take you to a new page where you will be presented with a questionary 
   In the last screen you will be asked to deposit your campaign-budget.
 
 
-After creating a campaign and successfully deposit your budget it's is time to create the deals for the influencers.
+After creating a campaign and successfully deposit your budget it is time to create the deals for the influencers.
 
 .. thumbnail:: _static/images/campaign-step12.png
   :width: 500
@@ -140,10 +140,10 @@ After creating a campaign and successfully deposit your budget it's is time to c
 Set content and create deals
 ----------------
 
-For the services you've chosen during the creation of the campaign content needs to be set.
+For the services you have chosen during the creation of the campaign content needs to be set.
 
-On the left you'll find all the services in your campaign. By clicking on them, the service will open in the center of the screen.
-In the top of the center-view you can see a selection of filters which you can use to show different type of cards.(set content, content set etc.)
+On the left you will find all the services in your campaign. By clicking on them, the service will open in the center of the screen.
+In the top of the center-view you can see a selection of filters which you can use to show different type of cards. (Set content, content set etc.)
 
 .. thumbnail:: _static/images/service-header.png
   :width: 600
@@ -154,7 +154,7 @@ In the top of the center-view you can see a selection of filters which you can u
   
   Deals have different statuses during the runtime of the campaign. By clicking on the filters, deals with that status will be loaded in the grid below.
   
-By default the filter "Set content" is activated.
+By default, the filter "Set content" is activated.
 Until an influencer has accepted a deal, all the shown cards are anonymous except for favorites.
 
 .. thumbnail:: _static/images/cards-anon.png
@@ -167,7 +167,7 @@ Until an influencer has accepted a deal, all the shown cards are anonymous excep
   Anonymous cards
 
 To add favorites to a service, just click on the button "Add Favorites".
-This will open a pop-up where your can select your personal favorites to be added to the current service.
+This will open a pop-up where you can select your personal favorites to be added to the current service.
 
 .. thumbnail::  _static/images/deals-fav.png
   :width: 500
@@ -179,7 +179,7 @@ This will open a pop-up where your can select your personal favorites to be adde
   At your personal favorites to the campaign.
 
 The shown cards under "Set Content", "Content Set" and "Invited" represent matching influencers which might perform the services for you.
-The number and type of the shown influencers is roughly based on the budget available for that particular service.
+The number and type of the shown influencers is based on the budget available for that service.
 The final number of influencers accepting your deal might vary due to the value of each influencer.
 
 
@@ -205,44 +205,44 @@ Follow        URL of profile to be followed.
 Retweet       URL of tweet to be shared.
 Comment       - URL of tweet to be commented on.
 
-              - content of comment(fix content,change in own-words,write based on instructions).
-Tweet         - Content of tweet(fix content,change in own-words,write based on instructions)
+              - content of comment (fix content,change in own-words,write based on instructions).
+Tweet         - Content of tweet (fix content,change in own-words,write based on instructions)
 
               - Media if service is of this type. 
 Quote         - URL of tweet to be shared.
 
-              - content of quote(fix content,change in own-words,write based on instructions).
+              - content of quote (fix content,change in own-words,write based on instructions).
               - Media if service is of this type. 
 ============  ==========
 
-When you're setting the content for comments, tweets or quotes you can choose between 3 options.
+When you are setting the content for comments, tweets or quotes you can choose between 3 options.
 
-- Influencer cannot change text. (message should be sent as is)
+- Influencer cannot change text. (Message should be sent as is)
 
 - Influencer is required to put the text in their own words.
 
 - Influencer writes own content based on text/announcement from brand.
 
 
-With the first option the brand writes the content and the influencer has to accept the deal as is.
-With the second option, the brand writes the content but the influencer has to rewrite it in their own words and with the final option the brand only gives instructions to the influencer on where to write about, this can be an article, product, event etc.
+With the first option the brand writes the content, and the influencer has to accept the deal as is.
+With the second option, the brand writes the content, but the influencer must rewrite it in their own words and with the final option the brand only gives instructions to the influencer on where to write about, this can be an article, product, event etc.
 
 With the second and third option the brand will be able to review the content written by the influencer. As soon as both parties agree and accept the content the deal is final.
 
 The service-budget will be divided over the different options used in the form. Say you have set 25% of the cards with the first content-option and 75% with the the second,
-the budget get divided between these accordingly. 
+the budget gets divided between these accordingly. 
 
 
 
 Invite Influencers
 ------------
 
-Once you've set all cards for a particular service you'll be able to invite all influencers matching this service.
+Once you have set all cards for a particular service, you'll be able to invite all influencers matching this service.
 By clicking on the "Send Invite" button in the right-menu, all matching influencers will be invited to perform the selected service.
 
 Because influencers are limited to a fixed number of deals per campaign, we recommend you to first set the content of all services 
 and combine the invites of different services (example: like, comment & retweet)
-This way the influencer can make a clear choice on which service they want to perform.
+This way the influencer can make a perfect choice on which service they want to perform.
 
 
 .. thumbnail:: _static/images/deals-invite.png
@@ -255,7 +255,7 @@ This way the influencer can make a clear choice on which service they want to pe
   Click on the "Send Invite" button to invite the influencers.
 
 
-After you've send out the invites, the matching influencers will receive the invitations in their mailbox and as an on-platform notification.
+After you've sent out the invites, the matching influencers will receive the invitations in their mailbox and as an on-platform notification.
 The all the cards have the status "invited"
 
 At this point all you need to do is wait until the budget of the service is filled with accepted deals.
@@ -281,7 +281,7 @@ Once an influencer has set the content the deal will be visible under the "Revie
 The number in-front of the review-filter shows how many deals need to be reviewed.
 
 Click on the review-filter and all deals which need to be reviewed are shown in the grid below.
-Select the deal which you want to review and the content is shown on the right side.
+Select the deal which you want to review, and the content is shown on the right side.
 
 
 .. |review1| image:: _static/images/deals-review-1.png
@@ -303,7 +303,7 @@ Select the deal which you want to review and the content is shown on the right s
 
 
 
-At the bottom you can Accept the deal, decline the deal or change the content. 
+At the bottom you can Accept the deal, decline the deal, or change the content. 
 When a brand decides to change the content, any changes made to the content need be accepted by the influencer first after which the brand has the final saying.
 
 When both parties agree on the content, the deal is set and will be scheduled for publication.
@@ -314,7 +314,7 @@ Chat Function
 .. |chaticon| image:: _static/images/chat-icon.svg
    :height: 18px
 
-As long as a campaign is active you can start a private chat with influencers.
+If a campaign is active you can start a private chat with influencers.
 This can be useful when the content requires extra information. Just click on the |chaticon| in the card of the influencer to start a conversation.
 
 
@@ -325,17 +325,17 @@ This can be useful when the content requires extra information. Just click on th
   :show_caption: True
   :title:
   
-  When clicking on the |chaticon| in the deal-cards the chatbox opens on the right. 
+  When clicking on the |chaticon| in the deal-cards the chat box opens on the right. 
 
 The chat is only available for influencers with an active status. (accepted,review,pending,completed)
-Under the filter "Chat" you can you can see if influencers have replied or made a new request.
+Under the filter "Chat" you can see if influencers have replied or made a new request.
 
 
 
 Cancel Campaign
 ------------
 
-In case a brand made a mistake with the set content of any other reason, he/she can cancel the campaign at anytime.
+In case a brand made a mistake with the set content of any other reason, he/she can cancel the campaign at any time.
 
 .. thumbnail:: _static/images/cancel-campaign.png
   :width: 300
@@ -346,7 +346,7 @@ In case a brand made a mistake with the set content of any other reason, he/she 
   
   By clicking on the Cancel button in the campaign-overview, the campaign will be cancelled immediately. 
 
-All deals which haven't been completed yet will be cancelled that instant and the remaining budget of the campaign reimbursed to the brand's wallet. 
+All deals which have not been completed yet will be cancelled that instant and the remaining budget of the campaign reimbursed to the brand's wallet. 
 
 
 
@@ -354,3 +354,4 @@ Campaign Dashboard
 ---------------
 
 N/A
+
