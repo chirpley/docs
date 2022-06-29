@@ -1,8 +1,8 @@
 Chirpley Wallet
 =====
 
-By clicking on the round button in je bottom-right corner, you can open up your wallet.
-Here you'll see an overview of all the financial information concerning your account.
+By clicking on the round button in je bottom-right corner, you can open your wallet.
+Here you will see an overview of all the financial information concerning your account.
 
 
 .. |wallet1| image:: _static/images/wallet-top.png
@@ -20,7 +20,7 @@ Here you'll see an overview of all the financial information concerning your acc
    +-------------+-------------+
 
 
-In the top part of the wallet you'll find:
+In the top part of the wallet, you'll find:
 
 - Wallet Balance
 
@@ -28,7 +28,7 @@ In the top part of the wallet you'll find:
 
 - Incoming earnings
 
-- Withdrawn ammount
+- Withdrawn amount
 
 The bottom-part is for connecting your web3 wallet
 
@@ -74,10 +74,10 @@ Supporting wallets are:
 Withdraw
 ------------
 
-You can withdraw your funds anytime of the day. However the minimum withdraw amount is 50 USD.
+You can withdraw your funds anytime of the day. However, the minimum withdraw amount is 50 USD.
 
 Just make sure your external wallet is connected and fill in the amount you wish to withdraw.
-Next click on withdraw an confirm in the popup.
+Next click on withdraw and confirm in the popup.
 
 Your funds will be transferred to you in BUSD. 
 To add BUSD to your Metamask wallet click on 'Add token' and copy-paste the BUSD token contract address: 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56
@@ -88,7 +88,7 @@ Disconnect
 ------------
 
 To disconnect your external wallet click on the "Disconnect" button.
-Incase you used the Metamask browser extension, you should disconnect it from your Metamask wallet.
+In case you used the Metamask browser extension, you should disconnect it from your Metamask wallet.
 
 .. thumbnail:: _static/images/disconnect-metamask.png
   :width: 400
@@ -100,4 +100,4 @@ Incase you used the Metamask browser extension, you should disconnect it from yo
   Disconnect Metamask
 
 
-Open your Metamask wallet and click on "Connected", find the connection, click the 3 dots and click on disconnect.
+Open your Metamask wallet and click on "Connected", find the connection, click the three dots and click on disconnect.
