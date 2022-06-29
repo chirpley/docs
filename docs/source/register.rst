@@ -12,22 +12,6 @@ It all starts with the....
 Registration
 ------------
 
-To be able to register for an account you will need to be 16yrs or older.
-This is due to strict privacy regulations in some parts of the world.
-
-Creating an Account
-=====
-
-Our platform is designed in such a way that it does not matter if you're a brand, influencer, content creator or just an average Joe/Jane.
-Anyone can register and everyone has the same functionalities at his/her disposal.
-You can be a brand and an influencer with the same account, starting a campaign as a brand and at the same time create content for other brands just by flipping a switch.
-
-Let me take you down the rabbit hole and introduce you to our ever evolving platform.
-
-It all starts with the....
-
-Registration
-------------
 
 To be able to register for an account you will need to be 16yrs or older.
 This is due to strict privacy regulations in some parts of the world.
