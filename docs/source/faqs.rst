@@ -14,7 +14,6 @@ Here we'll collect the most asked questions about the Chirpley platform.
 
    <hr>
 
-
 What are the requirements to become an influencer on Chirpley?
 ------------
 
@@ -36,7 +35,6 @@ Obviously we won't let anyone take a peak under the hood but believe us... The e
 
    <hr>
 
-
 How do you valuate social-media accounts?
 ------------
 
@@ -50,7 +48,7 @@ Reasons for the algorithm to find engagement to be non-organic are:
 
 - Like and retweet requests from external sources.
 
-- Unexplainable high engagement-rates.
+- Unexplainable high engagement.
 
 - Irregularities in engagement.
 
@@ -63,7 +61,6 @@ If there's any doubt on the authenticity of an account, the staff has the right 
 .. raw:: html
 
    <hr>
-
 
 I participated in a campaign but I didn't receive any payment in my wallet.
 ------------
@@ -79,6 +76,18 @@ However if you believe you didn't receive any payments for your service, please 
 
    <hr>
 
+I've received an invite to a campaign but the deal was cancelled before I could accept. 
+------------
+
+Brands create campaigns with a budget, these budgets are divided between various services for which deals are created.
+All influencers fitting the campaign and the service are invited to accept or decline the created deals.
+From this moment, influencers who received an invite can accept the deal, until the predefined budget is reached.
+When the budget is reached, or the remaining budget is too low for your earnings, the deal gets cancelled by the platform.
+
+
+.. raw:: html
+
+   <hr>
 
 I've made a withdraw but I can't see it in my wallet?
 ------------
@@ -104,7 +113,6 @@ Later this year we'll add more social-media channels like Instagram, Tiktok, Fac
 
    <hr>
 
-
 When will the platform expand to other markets beside Crypto/blockchain? 
 ------------
 
@@ -114,6 +122,7 @@ Therefor we made the decision to use the crypto-market as a testing ground so to
 .. raw:: html
 
    <hr>
+
 
 Do you have a support department
 ------------
