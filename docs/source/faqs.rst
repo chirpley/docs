@@ -57,9 +57,9 @@ Reasons for the algorithm to find engagement to be non-organic are:
 
 If the platform cannot valuate a Twitter-account, the user will receive a base fee.
 
-If there is any doubt on the authenticity of an account, the staff has the right to put the user back to basic of block completely.
+If there is any doubt on the authenticity of an account, the staff has the right to put the user back to base fee of block completely.
 
-Accounts will be checked regularly on the market specified. If the specified market differs from the content of the channel, the influencer will be set to basic fee.
+Accounts will be checked regularly on the market specified. If the specified market differs from the content of the channel, the influencer will be set to base fee.
 
 .. raw:: html
 
