@@ -1,0 +1,40 @@
+.wy-side-nav-search, .wy-nav-top {
+    background: #32323c;
+}
+.wy-nav-side{
+    background: #32323c;
+}
+.logo {
+    width: 100% !important;
+}
+.wy-body-for-nav .wy-nav-content-wrap {
+        background: #f2f0fa;
+}
+@media screen and (min-width: 1100px){
+    .wy-nav-content {
+        margin: 0;
+        background: transparent;
+        max-width: 900px;
+    }
+}
+@media screen and (min-width: 1600px){
+    .wy-body-for-nav .wy-nav-content-wrap {
+        background: #f2f0fa url("docs.jpg") no-repeat fixed right;
+    }
+}
+p.admonition-title {
+    background: #f24139 !important;
+}
+a {
+    color: #f24139 !important;
+}
+.center {
+    text-align: center;
+}
+figcaption p {
+    font-size: 14px;
+}
+figcaption {
+text-align: center;
+font-size: 14px;
+}
