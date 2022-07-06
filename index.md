@@ -3,7 +3,7 @@ Welcome to Chirpley's documentation\!
 
 <div class="thumbnail" width="800" data-align="center" alt="Chirpley Documentation" data-show_caption="True" title="">
 
-\_static/images/doc-banner.jpg
+![Documents](_static/images/doc-banner.jpg)
 
 </div>
 
