@@ -2,7 +2,7 @@
 
 * [asbrand](README.md)
 * [asinfluencer](asinfluencer.md)
-* [faqs](faqs.md)
+* [Frequently Asked Questions](faqs.md)
 * [Docs](index.md)
 * [introduction](introduction.md)
 * [register](register.md)

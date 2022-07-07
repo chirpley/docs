@@ -1,6 +1,4 @@
-# faqs
-
-Frequently Asked Questions =====
+# Frequently Asked Questions
 
 ![Faqs](\_static/images/faqs.png)
 
