@@ -20,7 +20,7 @@ world.
 
 
 
-![Chirpley Sign-up](\_static/images/signup.png)
+![Chirpley Sign-up](_static/images/signup.png)
 
 
 Just go to <https://app.chirpley.ai/Account/Register> in your browser of
