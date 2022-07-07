@@ -1,9 +1,9 @@
 # Table of contents
 
+* [Documentation](README.md)
+* [Creating an Account](register.md)
 * [Chirpley as Brand](asbrand.md)
 * [Chirpley as Influencer](asinfluencer.md)
-* [Frequently Asked Questions](faqs.md)
-* [Docs](index.md)
 * [introduction](introduction.md)
-* [Creating an Account](register.md)
 * [wallet](wallet.md)
+* [Frequently Asked Questions](faqs.md)

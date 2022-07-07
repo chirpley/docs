@@ -10,7 +10,7 @@ It all starts with the....
 
 To be able to register for an account you will need to be 16yrs or older. This is due to strict privacy regulations in some parts of the world.
 
-![Chirpley Sign-up](\_static/images/signup.png)
+![Chirpley Sign-up](docs/source/\_static/images/signup.png)
 
 Just go to [https://app.chirpley.ai/Account/Register](https://app.chirpley.ai/Account/Register) in your browser of choice and fill in your email-address and date of birth. Before you hit the red Register-button you can choose to be updated on news and upcoming features by clicking the checkbox.
 
@@ -18,7 +18,7 @@ Just go to [https://app.chirpley.ai/Account/Register](https://app.chirpley.ai/Ac
 
 After you've sent the form, you'll receive a message in your email box (If you can't find it in your inbox, please check your spam-box). This includes a link to complete your registration.
 
-![Activate your account](\_static/images/activate.png)
+![Activate your account](docs/source/\_static/images/activate.png)
 
 Follow the link and you'll be served with some questions to complete your registration.
 
@@ -28,7 +28,7 @@ Fill-in a username of your choice and choose a password. Passwords must have at 
 
 Pick the Markets where you are active in or where your interest lies.
 
-![Complete your registration](\_static/images/register.png)
+![Complete your registration](docs/source/\_static/images/register.png)
 
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first. We will be activating more markets later this year.
 
@@ -38,7 +38,7 @@ Before you can make use of the platform as influencer or brand, you'll need to c
 
 On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are. In each role you can connect different social-channels and choose different market-niches.
 
-![Set up your profile and connect your channel](\_static/images/profile.png)
+![Set up your profile and connect your channel](docs/source/\_static/images/profile.png)
 
 ## Connect as Influencer
 
@@ -46,12 +46,12 @@ For influencers a twitter-account needs to have a minimum of 100 followers and a
 
 Click on the Twitter icon and you will be presented with a questionary to connect your Twitter account to your Chirpley-account.
 
-|                                                   |                                                    |                                                   |                                                   |
-| ------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-|                                                   | ![connect2](\_static/images/influencer-step1b.png) | ![connect3](\_static/images/influencer-step2.png) | ![connect4](\_static/images/influencer-step3.png) |
-| ![connect5](\_static/images/influencer-step4.png) | ![connect6](\_static/images/influencer-step5.png)  | ![connect7](\_static/images/influencer-step6.png) | ![connect8](\_static/images/influencer-step7.png) |
+|                                                               |                                                                |                                                               |                                                               |
+| ------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+|                                                               | ![connect2](docs/source/\_static/images/influencer-step1b.png) | ![connect3](docs/source/\_static/images/influencer-step2.png) | ![connect4](docs/source/\_static/images/influencer-step3.png) |
+| ![connect5](docs/source/\_static/images/influencer-step4.png) | ![connect6](docs/source/\_static/images/influencer-step5.png)  | ![connect7](docs/source/\_static/images/influencer-step6.png) | ![connect8](docs/source/\_static/images/influencer-step7.png) |
 
-![](\_static/images/influencer-step1a.png)
+![](docs/source/\_static/images/influencer-step1a.png)
 
 Connect Twitter
 
