@@ -5,5 +5,5 @@
 * [Frequently Asked Questions](faqs.md)
 * [Docs](index.md)
 * [introduction](introduction.md)
-* [register](register.md)
+* [Creating an Account](register.md)
 * [wallet](wallet.md)
