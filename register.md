@@ -34,13 +34,10 @@ After you've sent the form, you'll receive a message in your email box
 (If you can't find it in your inbox, please check your spam-box). This
 includes a link to complete your registration.
 
-<div class="thumbnail" width="400" data-align="center" alt="Chirpley Activation" data-show_caption="True" title="">
 
-\_static/images/activate.png
+![Activate your account](_static/images/activate.png)
 
-Activate your account
 
-</div>
 
 Follow the link and you'll be served with some questions to complete
 your registration.
@@ -53,13 +50,10 @@ character.
 
 Pick the Markets where you are active in or where your interest lies.
 
-<div class="thumbnail" width="400" data-align="center" alt="Complete Registration" data-show_caption="True" title="">
 
-\_static/images/register.png
 
-Complete your registration
+![Complete your registration](_static/images/register.png)
 
-</div>
 
 At the moment of writing and for the purpose of the upcoming pre-sale
 and launch of our token, we've activated the Crypto market first. We
@@ -79,13 +73,10 @@ time. The switch below your username controls in which role you
 currently are. In each role you can connect different social-channels
 and choose different market-niches.
 
-<div class="thumbnail" width="800" data-align="center" alt="Setup your profile" data-show_caption="True" title="">
 
-\_static/images/profile.png
 
-Set up your profile and connect your channel
+![Set up your profile and connect your channel](_static/images/profile.png)
 
-</div>
 
 # Connect as Influencer
 
