@@ -1,4 +1,4 @@
-Introduction =====
+Introduction
 
 Chirpley is a Web-3 based influencer marketplace, enabling end-to-end
 automated influencing campaigns through Artificial Intelligence and

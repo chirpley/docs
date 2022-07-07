@@ -1,4 +1,4 @@
-Chirpley as Brand =====
+# Chirpley as Brand
 
 Chirpley entirely dedicates its marketing platform to small or
 nano-influencers. It ought to fit these influencers in an extensive
@@ -9,7 +9,7 @@ Chirpley revolutionizes the process of influencer marketing. It has been
 devised to utilize numerous small influencers to improve a campaign’s
 reach and impact.
 
-Create Campaign ------------
+### Create Campaign
 
 To create a campaign, go to the campaign page
 (<https://app.chirpley.ai/Campaign/CampaignOverview>) and click on the
@@ -17,32 +17,23 @@ To create a campaign, go to the campaign page
 will be presented with a questionary which will guide you through the
 process.
 
-<div class="thumbnail" width="500" data-align="center" data-show_caption="True" title="">
 
-\_static/images/campaign-step1.png
+![Set a attractive and recognizable name for your campaign. This is the
+first thing an influencer sees when he/she gets an invite.](\_static/images/campaign-step1.png)
 
-Set a attractive and recognizable name for your campaign. This is the
-first thing an influencer sees when he/she gets an invite.
 
-</div>
 
-<div class="thumbnail" width="500" data-align="center" alt="Campaign Budget" data-show_caption="True" title="">
+![Set the budget of your campaign, further up in this form you'll be able
+to spread this over several services.](\_static/images/campaign-step2.png)
 
-\_static/images/campaign-step2.png
 
-Set the budget of your campaign, further up in this form you'll be able
-to spread this over several services.
 
-</div>
-
-<div class="thumbnail" width="500" data-align="center" alt="Campaign Runtime" data-show_caption="True" title="">
-
-\_static/images/campaign-step3.png
-
-Set the runtime for your campaign, you can set a begin-time and end-time
+![Set the runtime for your campaign, you can set a begin-time and end-time
 in which your campaign runs, and deals will be performed. When choosing
 ASAP as begin-time, all deal with be executed the moment both parties
-accept them.
+accept them.](\_static/images/campaign-step3.png)
+
+
 
 </div>
 
@@ -121,7 +112,7 @@ Set the content for your new campaign.
 
 </div>
 
-Set content and create deals ----------------
+### Set content and create deals
 
 For the services you have chosen during the creation of the campaign
 content needs to be set.
@@ -253,7 +244,7 @@ the form. Say you have set 25% of the cards with the first
 content-option and 75% with the the second, the budget gets divided
 between these accordingly.
 
-Invite Influencers ------------
+### Invite Influencers
 
 Once you have set all cards for a particular service, you'll be able to
 invite all influencers matching this service. By clicking on the "Send
@@ -290,7 +281,7 @@ service is filled.
 
 </div>
 
-Review content & Accepting deals ------------
+### Review content & Accepting deals
 
 In case the brand has created deals where influencers have to write
 their own content, the brand will have a chance to review these. Once an
@@ -332,7 +323,7 @@ brand has the final saying.
 When both parties agree on the content, the deal is set and will be
 scheduled for publication.
 
-Chat Function ------------
+### Chat Function
 
 If a campaign is active you can start a private chat with influencers.
 This can be useful when the content requires extra information. Just
@@ -352,7 +343,7 @@ The chat is only available for influencers with an active status.
 (accepted,review,pending,completed) Under the filter "Chat" you can see
 if influencers have replied or made a new request.
 
-Cancel Campaign ------------
+### Cancel Campaign
 
 In case a brand made a mistake with the set content of any other reason,
 he/she can cancel the campaign at any time.
@@ -370,6 +361,6 @@ All deals which have not been completed yet will be cancelled that
 instant and the remaining budget of the campaign reimbursed to the
 brand's wallet.
 
-Campaign Dashboard ---------------
+### Campaign Dashboard
 
 N/A
