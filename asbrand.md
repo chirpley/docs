@@ -17,38 +17,25 @@ To create a campaign, go to the campaign page
 will be presented with a questionary which will guide you through the
 process.
 
-<div class="thumbnail" width="500" data-align="center" data-show_caption="True" title="">
 
-![Step1](\_static/images/campaign-step1.png)
 
-Set a attractive and recognizable name for your campaign. This is the
-first thing an influencer sees when he/she gets an invite.
+![Set a attractive and recognizable name for your campaign. This is the
+first thing an influencer sees when he/she gets an invite.](_static/images/campaign-step1.png)
 
-</div>
 
-<div class="thumbnail" width="500" data-align="center" alt="Campaign Budget" data-show_caption="True" title="">
+![Set the budget of your campaign, further up in this form you'll be able
+to spread this over several services.](_static/images/campaign-step2.png)
 
-![Step2](\_static/images/campaign-step2.png)
 
-Set the budget of your campaign, further up in this form you'll be able
-to spread this over several services.
-
-</div>
-
-<div class="thumbnail" width="500" data-align="center" alt="Campaign Runtime" data-show_caption="True" title="">
-
-![Step3](\_static/images/campaign-step3.png)
-
-Set the runtime for your campaign, you can set a begin-time and end-time
+![Set the runtime for your campaign, you can set a begin-time and end-time
 in which your campaign runs, and deals will be performed. When choosing
 ASAP as begin-time, all deal with be executed the moment both parties
-accept them.
+accept them.](_static/images/campaign-step3.png)
 
-</div>
 
 <div class="thumbnail" width="500" data-align="center" alt="Campaign Location" data-show_caption="True" title="">
 
-![Step4](\_static/images/campaign-step4.png)
+![Step4](_static/images/campaign-step4.png)
 
 Set the location for your campaign.
 
@@ -56,7 +43,7 @@ Set the location for your campaign.
 
 <div class="thumbnail" width="500" data-align="center" alt="Campaign Language" data-show_caption="True" title="">
 
-![Step5](\_static/images/campaign-step5.png)
+![Step5](_static/images/campaign-step5.png)
 
 Set the language for your campaign.
 
@@ -64,7 +51,7 @@ Set the language for your campaign.
 
 <div class="thumbnail" width="500" data-align="center" alt="Campaign Goal" data-show_caption="True" title="">
 
-![Step6](\_static/images/campaign-step6.png)
+![Step6](_static/images/campaign-step6.png)
 
 What is the goal of your campaign.
 
@@ -72,7 +59,7 @@ What is the goal of your campaign.
 
 <div class="thumbnail" width="500" data-align="center" alt="Campaign Niches" data-show_caption="True" title="">
 
-![Step7](\_static/images/campaign-step7.png)
+![Step7](_static/images/campaign-step7.png)
 
 What are niches of your campaign.
 
@@ -80,7 +67,7 @@ What are niches of your campaign.
 
 <div class="thumbnail" width="500" data-align="center" alt="Social Media channels" data-show_caption="True" title="">
 
-![Step8](\_static/images/campaign-step8.png)
+![Step8](_static/images/campaign-step8.png)
 
 Select the social-media channels for your campaign.
 
@@ -88,7 +75,7 @@ Select the social-media channels for your campaign.
 
 <div class="thumbnail" width="500" data-align="center" alt="Campaign Services" data-show_caption="True" title="">
 
-![Step9](\_static/images/campaign-step9.png)
+![Step9](_static/images/campaign-step9.png)
 
 Select the services you which for your campaign.
 
@@ -96,7 +83,7 @@ Select the services you which for your campaign.
 
 <div class="thumbnail" width="500" data-align="center" alt="Divide the budget" data-show_caption="True" title="">
 
-![Step10](\_static/images/campaign-step10.png)
+![Step10](_static/images/campaign-step10.png)
 
 Divide the campaign-budget amongst the chosen services.
 
@@ -104,7 +91,7 @@ Divide the campaign-budget amongst the chosen services.
 
 <div class="thumbnail" width="500" data-align="center" alt="Campaign Niches" data-show_caption="True" title="">
 
-![Step11](\_static/images/campaign-step11.png)
+![Step11](_static/images/campaign-step11.png)
 
 In the last screen you will be asked to deposit your campaign-budget.
 
@@ -115,7 +102,7 @@ time to create the deals for the influencers.
 
 <div class="thumbnail" width="500" data-align="center" alt="Campaign deals" data-show_caption="True" title="">
 
-![Step12](\_static/images/campaign-step12.png)
+![Step12](_static/images/campaign-step12.png)
 
 Set the content for your new campaign.
 
