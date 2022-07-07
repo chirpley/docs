@@ -9,11 +9,13 @@ platform that is exclusively dedicated to nano- and micro-influencers.
 And exactly that is where the future of influencer marketing lies, much
 more than with the mega-influencers with zillions of followers.
 
-<div class="thumbnail" data-align="center" alt="Chirpley&#39;s Vision" data-show_caption="True" title="">
 
-\_static/images/not-alone.png
 
-</div>
+<figure>
+<img src="_static/images/not-alone.png" alt="Chirpley&#39;s Vision" style="width:100%">
+<figcaption align = "center"><b>Chirpley&#39;s Vision</b></figcaption>
+</figure>
+
 
 Look at the small influencers of this world. So much to give, so much to
 share. But so little help to make the most of it. No-one there to pave
