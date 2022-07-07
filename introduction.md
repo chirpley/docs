@@ -10,7 +10,7 @@ And exactly that is where the future of influencer marketing lies, much
 more than with the mega-influencers with zillions of followers.
 
 
-![Chirpley&#39;s Vision](_static/images/not-alone.png)
+![Chirpley&#39;s Vision](_static/images/not-alone.png?style=center)
 
 
 Look at the small influencers of this world. So much to give, so much to
@@ -22,3 +22,8 @@ marketing community. These influencers are not alone anymore\!
 It is time for disruption. Time to liberate small influencers from
 anything that stands in the way of greater success. Time to hand them
 what they deserve.
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}

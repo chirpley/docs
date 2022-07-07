@@ -18,11 +18,10 @@ To be able to register for an account you will need to be 16yrs or
 older. This is due to strict privacy regulations in some parts of the
 world.
 
-<div class="thumbnail" width="400" data-align="center" alt="Chirpley Sign-up" data-show_caption="True" title="">
 
-\_static/images/signup.png
 
-</div>
+![Chirpley Sign-up](\_static/images/signup.png)
+
 
 Just go to <https://app.chirpley.ai/Account/Register> in your browser of
 choice and fill in your email-address and date of birth. Before you hit
@@ -46,7 +45,7 @@ Activate your account
 Follow the link and you'll be served with some questions to complete
 your registration.
 
-Complete Registration ------------
+# Complete Registration
 
 Fill-in a username of your choice and choose a password. Passwords must
 have at least one one digit ('0'-'9') and one non-alphanumeric
@@ -66,7 +65,7 @@ At the moment of writing and for the purpose of the upcoming pre-sale
 and launch of our token, we've activated the Crypto market first. We
 will be activating more markets later this year.
 
-Setup your Profile ------------
+# Setup your Profile
 
 Before you can make use of the platform as influencer or brand, you'll
 need to connect at least one social-channel. All your account-settings
@@ -88,7 +87,7 @@ Set up your profile and connect your channel
 
 </div>
 
-Connect as Influencer ------------
+# Connect as Influencer
 
 For influencers a twitter-account needs to have a minimum of 100
 followers and at least 20 own tweets. (retweets and replies are
@@ -109,7 +108,7 @@ to connect your Twitter account to your Chirpley-account.
 
 Connect Twitter
 
-Connect as Brand ------------
+# Connect as Brand
 
 Twitter-accounts of brands and marketeers aren't limited, and the
 questionary resembles that of influencers accept for the service and
@@ -129,7 +128,7 @@ To change these setting in the future you can just click the
 Social-media icon in your profile
 (<https://app.chirpley.ai/Account/Profile>) and edit them thereafter.
 
-Profile Settings ---------------
+# Profile Settings
 
 Please take your time to upload a profile-image in the settings on the
 right. This will help you get noticed by marketers.
