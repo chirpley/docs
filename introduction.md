@@ -10,11 +10,7 @@ And exactly that is where the future of influencer marketing lies, much
 more than with the mega-influencers with zillions of followers.
 
 
-
-<figure>
-<img src="_static/images/not-alone.png" alt="Chirpley&#39;s Vision" style="width:100%">
-<figcaption align = "center"><b>Chirpley&#39;s Vision</b></figcaption>
-</figure>
+![Chirpley&#39;s Vision](_static/images/not-alone.png)
 
 
 Look at the small influencers of this world. So much to give, so much to
