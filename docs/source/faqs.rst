@@ -66,10 +66,12 @@ Accounts will be checked regularly on the market specified. If the specified mar
 
    <hr>
    
-I have enough followers, retweet daily and I'm still on base fee?
+I have enough followers, retweet daily and I'm still on base fee.
 ------------
 
-The system only uses the impressions and engagement of your OWN content. All engagement on a retweet belongs to the original tweet, therefor these metrics are left out of the calculation. To be an influencer make sure to create original content and interact with your followers. This will generate engagement and impressions.
+The system only uses the impressions and engagement of your OWN content. All engagement on a retweet belongs to the original tweet, therefor these metrics are left out of the calculation.
+
+To be an influencer make sure to create original content and interact with your followers. This will generate engagement and impressions.
 
 .. raw:: html
 
