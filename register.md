@@ -60,6 +60,5 @@ To change these setting in the future you can just click the Social-media icon i
 
 Please take your time to upload a profile-image in the settings on the right. This will help you get noticed by marketers.
 
-\_static/images/profile-image.png
+![Upload Profile Image](docs/source/_static/images/profile-image.png)
 
-Upload your profile image
