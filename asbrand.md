@@ -63,27 +63,26 @@ For the services you have chosen during the creation of the campaign content nee
 
 On the left you will find all the services in your campaign. By clicking on them, the service will open in the center of the screen. In the top of the center-view you can see a selection of filters which you can use to show different type of cards. (Set content, content set etc.)
 
-\_static/images/service-header.png
+![Deals have different statuses during the runtime of the campaign. By clicking on the filters, deals with that status will be loaded in the grid below.](\_static/images/service-header.png)
 
-Deals have different statuses during the runtime of the campaign. By clicking on the filters, deals with that status will be loaded in the grid below.
 
 By default, the filter "Set content" is activated. Until an influencer has accepted a deal, all the shown cards are anonymous except for favorites.
 
-\_static/images/cards-anon.png
+![Anonymous cards](\_static/images/cards-anon.png)
 
-Anonymous cards
+
 
 To add favorites to a service, just click on the button "Add Favorites". This will open a pop-up where you can select your personal favorites to be added to the current service.
 
-\_static/images/deals-fav.png
+![At your personal favorites to the campaign.](\_static/images/deals-fav.png)
 
-At your personal favorites to the campaign.
+
 
 The shown cards under "Set Content", "Content Set" and "Invited" represent matching influencers which might perform the services for you. The number and type of the shown influencers is based on the budget available for that service. The final number of influencers accepting your deal might vary due to the value of each influencer.
 
-\_static/images/deals-like.png
+![View of the like service with 8 selected cards.](\_static/images/deals-like.png)
 
-View of the like service with 8 selected cards.
+
 
 Once you select a card in the center of the screen, you'll be able to set the content for these cards in a form on the right side. This can be done one by one or in batch. The questions in the form are related to the service you're working on. Below you will find an overview of the questions per service-type.
 
@@ -114,17 +113,17 @@ Once you have set all cards for a particular service, you'll be able to invite a
 
 Because influencers are limited to a fixed number of deals per campaign, we recommend you to first set the content of all services and combine the invites of different services (example: like, comment & retweet) This way the influencer can make a perfect choice on which service they want to perform.
 
-\_static/images/deals-invite.png
+![Click on the "Send Invite" button to invite the influencers.](\_static/images/deals-invite.png)
 
-Click on the "Send Invite" button to invite the influencers.
+
 
 After you've sent out the invites, the matching influencers will receive the invitations in their mailbox and as an on-platform notification. The all the cards have the status "invited"
 
 At this point all you need to do is wait until the budget of the service is filled with accepted deals.
 
-\_static/images/deals-progressbar.png
+![After sending-out the invites you can see how far the budget for each service is filled.](\_static/images/deals-progressbar.png)
 
-After sending-out the invites you can see how far the budget for each service is filled.
+
 
 ### Review content & Accepting deals
 
@@ -143,7 +142,7 @@ When both parties agree on the content, the deal is set and will be scheduled fo
 
 If a campaign is active you can start a private chat with influencers. This can be useful when the content requires extra information. Just click on the ![chaticon](\_static/images/chat-icon.svg) in the card of the influencer to start a conversation.
 
-\_static/images/deals-chat.png
+![](\_static/images/deals-chat.png)
 
 When clicking on the ![chaticon](\_static/images/chat-icon.svg) in the deal-cards the chat box opens on the right.
 
@@ -153,9 +152,9 @@ The chat is only available for influencers with an active status. (accepted,revi
 
 In case a brand made a mistake with the set content of any other reason, he/she can cancel the campaign at any time.
 
-\_static/images/cancel-campaign.png
+![By clicking on the Cancel button in the campaign-overview, the campaign will be cancelled immediately.](\_static/images/cancel-campaign.png)
 
-By clicking on the Cancel button in the campaign-overview, the campaign will be cancelled immediately.
+
 
 All deals which have not been completed yet will be cancelled that instant and the remaining budget of the campaign reimbursed to the brand's wallet.
 
