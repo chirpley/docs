@@ -4,6 +4,5 @@
 * [Creating an Account](register.md)
 * [Chirpley as Brand](asbrand.md)
 * [Chirpley as Influencer](asinfluencer.md)
-* [introduction](introduction.md)
 * [wallet](wallet.md)
 * [Frequently Asked Questions](faqs.md)
