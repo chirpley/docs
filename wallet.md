@@ -43,7 +43,7 @@ Supporting wallets are:
   - Rainbow Wallet (<https://rainbow.me/>)
   - Pillar (<https://www.pillar.fi/>)
 
-# Withdraw
+## Withdraw
 
 You can withdraw your funds anytime of the day. However, the minimum
 withdraw amount is 50 USD.
@@ -55,7 +55,7 @@ Your funds will be transferred to you in BUSD. To add BUSD to your
 Metamask wallet click on 'Add token' and copy-paste the BUSD token
 contract address: 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56
 
-# Disconnect
+## Disconnect
 
 To disconnect your external wallet click on the "Disconnect" button. In
 case you used the Metamask browser extension, you should disconnect it
