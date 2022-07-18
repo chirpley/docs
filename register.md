@@ -18,7 +18,7 @@ Just go to [https://app.chirpley.ai/Account/Register](https://app.chirpley.ai/Ac
 
 After you've sent the form, you'll receive a message in your email box (If you can't find it in your inbox, please check your spam-box). This includes a link to complete your registration.
 
-![Activate your account](docs/source/\_static/images/activate.png)
+![Activate your account](<docs/source/\_static/images/activate (1).png>)
 
 Follow the link and you'll be served with some questions to complete your registration.
 
@@ -28,7 +28,7 @@ Fill-in a username of your choice and choose a password. Passwords must have at 
 
 Pick the Markets where you are active in or where your interest lies.
 
-![Complete your registration](docs/source/\_static/images/register.png)
+![Complete your registration](<docs/source/\_static/images/register (1).png>)
 
 At the moment of writing and for the purpose of the upcoming pre-sale and launch of our token, we've activated the Crypto market first. We will be activating more markets later this year.
 
@@ -38,7 +38,7 @@ Before you can make use of the platform as influencer or brand, you'll need to c
 
 On the Chirpley-platform you can be brand and influencer at the same time. The switch below your username controls in which role you currently are. In each role you can connect different social-channels and choose different market-niches.
 
-![Set up your profile and connect your channel](docs/source/\_static/images/profile.png)
+![Set up your profile and connect your channel](<docs/source/\_static/images/profile (1).png>)
 
 ## Connect as Influencer
 
@@ -46,19 +46,18 @@ For influencers a twitter-account needs to have a minimum of 100 followers and a
 
 Click on the Twitter icon and you will be presented with a questionary to connect your Twitter account to your Chirpley-account.
 
-![Start Connecting](docs/source/\_static/images/influencer-step1a.png) ![Authorise Chirpley](docs/source/\_static/images/influencer-step1b.png) ![Channel Connected](docs/source/\_static/images/influencer-step2.png) ![Channel Markets](docs/source/\_static/images/influencer-step3.png) ![Channel Niches](docs/source/\_static/images/influencer-step4.png) ![Performing Services](docs/source/\_static/images/influencer-step5.png) ![Quotation of Services](\_static/images/influencer-step6.png) ![Final](docs/source/\_static/images/influencer-step7.png)
+![Start Connecting](\_static/images/influencer-step1a.png) ![Authorise Chirpley](\_static/images/influencer-step1b.png) ![Channel Connected](\_static/images/influencer-step2.png) ![Channel Markets](\_static/images/influencer-step3.png) ![Channel Niches](\_static/images/influencer-step4.png) ![Performing Services](\_static/images/influencer-step5.png) ![Quotation of Services](docs/source/\_static/images/influencer-step6.png) ![Final](\_static/images/influencer-step7.png)
 
 ## Connect as Brand
 
 Twitter-accounts of brands and marketeers aren't limited, and the questionary resembles that of influencers accept for the service and niche part. These settings are integrated in the create campaign-flow.
 
-Note
+**Note:**
 
-To change these setting in the future you can just click the Social-media icon in your profile ([https://app.chirpley.ai/Account/Profile](https://app.chirpley.ai/Account/Profile)) and edit them thereafter.
+`To change these setting in the future you can just click the Social-media icon in your profile (`[`https://app.chirpley.ai/Account/Profile`](https://app.chirpley.ai/Account/Profile)`) and edit them thereafter.`
 
 ## Profile Settings
 
 Please take your time to upload a profile-image in the settings on the right. This will help you get noticed by marketers.
 
-![Upload Profile Image](docs/source/_static/images/profile-image.png)
-
+![Upload Profile Image](docs/source/\_static/images/profile-image.png)
