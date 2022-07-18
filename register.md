@@ -46,14 +46,7 @@ For influencers a twitter-account needs to have a minimum of 100 followers and a
 
 Click on the Twitter icon and you will be presented with a questionary to connect your Twitter account to your Chirpley-account.
 
-|                                                               |                                                                |                                                               |                                                               |
-| ------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
-|                                                               | ![connect2](docs/source/\_static/images/influencer-step1b.png) | ![connect3](docs/source/\_static/images/influencer-step2.png) | ![connect4](docs/source/\_static/images/influencer-step3.png) |
-| ![connect5](docs/source/\_static/images/influencer-step4.png) | ![connect6](docs/source/\_static/images/influencer-step5.png)  | ![connect7](docs/source/\_static/images/influencer-step6.png) | ![connect8](docs/source/\_static/images/influencer-step7.png) |
-
-![](docs/source/\_static/images/influencer-step1a.png)
-
-Connect Twitter
+![Start Connecting](docs/source/\_static/images/influencer-step1a.png) ![Authorise Chirpley](docs/source/\_static/images/influencer-step1b.png) ![Channel Connected](docs/source/\_static/images/influencer-step2.png) ![Channel Markets](docs/source/\_static/images/influencer-step3.png) ![Channel Niches](docs/source/\_static/images/influencer-step4.png) ![Performing Services](docs/source/\_static/images/influencer-step5.png) ![Quotation of Services](\_static/images/influencer-step6.png) ![Final](docs/source/\_static/images/influencer-step7.png)
 
 ## Connect as Brand
 
