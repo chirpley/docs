@@ -32,7 +32,7 @@ Here you will find some basic information about the connected
 social-media channels, your account settings, referral-link and a link
 to your public business card.
 
-Public Profile-page ------------
+## Public Profile-page
 
 The moment you have connected your socials as an influencer, a public
 profile-page is created.
@@ -52,7 +52,7 @@ audience.
 Be sure to share your public profile-page so you will get noticed by
 brands.
 
-Referral Link ------------
+## Referral Link
 
 We've something called the lifelong referral bonus. How it works: you
 will receive a stunning 20% of the Chirpley fees (which is 10% of each
@@ -67,7 +67,7 @@ Your referral link starts with
 "<https://app.chirpley.ai/Account/Register?referral=>........" and can
 be found on your account-page.
 
-Receiving Invites ------------
+## Receiving Invites
 
 To be able to receive invites to campaigns you must have at least 20
 followers and have active services in your connected channels.
@@ -165,7 +165,7 @@ the deal will get the status accepted. Deals that do not need any
 further action are: Likes, Retweets, Follows and comments/quotes/tweets
 with brand-content.
 
-Setting the Content ----------------
+## Setting the Content
 
 If you've accepted a deal which requires you to write your own content,
 the deal will receive the "Set Content" status. By selecting the deal in
@@ -216,7 +216,7 @@ are accepted by both parties, there's no need for any action on either
 side. The service agreed on will be scheduled and completed by the
 system.
 
-Payment for services ------------
+## Payment for services
 
 Once a deal is completed and the system has performed the social action,
 the payment will be done. In the top panel you can see the amount you
@@ -229,7 +229,7 @@ have earned in this particular campaign.
 
 </div>
 
-Communicate with Brand ------------
+## Communicate with Brand
 
 If something is unclear about the requested content you can contact the
 brand while the deal is not cancelled, declined, or completed. Just
