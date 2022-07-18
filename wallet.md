@@ -4,23 +4,7 @@ By clicking on the round button in je bottom-right corner, you can open
 your wallet. Here you will see an overview of all the financial
 information concerning your account.
 
-<table style="width:39%;">
-<caption>Wallet tab with top &amp; bottom part</caption>
-<colgroup>
-<col style="width: 19%" />
-<col style="width: 19%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><img src="_static/images/wallet-top.png" alt="wallet1" /></p>
-</blockquote></td>
-<td><blockquote>
-<p><img src="_static/images/wallet-bottom.png" alt="wallet2" /></p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+![Wallet tab  top part](_static/images/wallet-top.png) ![Wallet tab bottom part](_static/images/wallet-bottom.png)
 
 In the top part of the wallet, you'll find:
 
