@@ -2,9 +2,8 @@ Chirpley as Influencer =====
 
 <div class="thumbnail" width="800" data-align="center" alt="Nano = Mega" data-show_caption="True" title="">
 
-\_static/images/nano-mega.png
+![Where one grows, all grow together as a flock.](\_static/images/nano-mega.png)
 
-Where one grows, all grow together as a flock.
 
 </div>
 
@@ -24,9 +23,8 @@ account-page by clicking on the account-icon in the left menu.
 
 <div class="thumbnail" width="600" data-align="center" alt="Cancel Campaign" data-show_caption="True" title="">
 
-\_static/images/influencer-profile.png
+![Your personal user-profile page](\_static/images/influencer-profile.png)
 
-Your personal user-profile page
 
 </div>
 
@@ -41,9 +39,8 @@ profile-page is created.
 
 <div class="thumbnail" width="600" data-align="center" alt="Cancel Campaign" data-show_caption="True" title="">
 
-\_static/images/businesscard.png
+![Your public profile-page with stats.](\_static/images/businesscard.png)
 
-Your public profile-page with stats.
 
 </div>
 
@@ -77,9 +74,8 @@ followers and have active services in your connected channels.
 
 <div class="thumbnail" width="400" data-align="center" alt="Active Services" data-show_caption="True" title="">
 
-\_static/images/influencer-step5.png
+![Active Services](\_static/images/influencer-step5.png)
 
-Active Services
 
 </div>
 
@@ -95,9 +91,8 @@ added favorites.
 
 <div class="thumbnail" width="400" data-align="center" alt="Selected Services" data-show_caption="True" title="">
 
-\_static/images/influencer-invite.png
+![Influencer Invitation](\_static/images/influencer-invite.png)
 
-Influencer Invitation
 
 </div>
 
@@ -114,10 +109,9 @@ Click on the link in your mailbox to go to the campaign overview.
 
 <div class="thumbnail" width="600" data-align="center" alt="Campaign Overview" data-show_caption="True" title="">
 
-\_static/images/influencer-campaign-overview.png
+![Campaign overview within the left column the campaigns to which you are
+invited.](\_static/images/influencer-campaign-overview.png)
 
-Campaign overview within the left column the campaigns to which you are
-invited.
 
 </div>
 
@@ -230,9 +224,8 @@ have earned in this particular campaign.
 
 <div class="thumbnail" width="600" data-align="center" alt="Campaign Overview" data-show_caption="True" title="">
 
-\_static/images/earned-in-campaign.png
+![Earned in campaign.](\_static/images/earned-in-campaign.png)
 
-Earned in campaign.
 
 </div>
 
@@ -245,8 +238,7 @@ deal-card and a chat-box will open in the right panel.
 
 <div class="thumbnail" width="400" data-align="center" alt="Chat function" data-show_caption="True" title="">
 
-\_static/images/chat-with-brand.png
+![Chat with the brand about the deal or content.](\_static/images/chat-with-brand.png)
 
-Chat with the brand about the deal or content.
 
 </div>
