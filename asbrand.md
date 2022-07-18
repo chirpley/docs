@@ -131,8 +131,7 @@ In case the brand has created deals where influencers have to write their own co
 
 Click on the review-filter and all deals which need to be reviewed are shown in the grid below. Select the deal which you want to review, and the content is shown on the right side.
 
-| <img src="_static/images/deals-review-1.png" alt="review1" data-size="original"> | <img src="_static/images/deals-review-2.png" alt="review2" data-size="original"> | <img src="_static/images/deals-review-3.png" alt="review3" data-size="original"> |
-| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+![review1](_static/images/deals-review-1.png) ![review2](_static/images/deals-review-2.png) ![review3](_static/images/deals-review-3.png)
 
 At the bottom you can Accept the deal, decline the deal, or change the content. When a brand decides to change the content, any changes made to the content need be accepted by the influencer first after which the brand has the final saying.
 
