@@ -1,4 +1,4 @@
-Chirpley as Influencer =====
+# Chirpley as Influencer
 
 <div class="thumbnail" width="800" data-align="center" alt="Nano = Mega" data-show_caption="True" title="">
 
@@ -15,7 +15,7 @@ well.
 
 Where one grows, all grow together as a flock.
 
-# Profile Page
+## Profile Page
 
 Once you've logged-in on the platform
 (<https://app.chirpley.ai/Account/Login>), you can open your
@@ -135,7 +135,7 @@ about the campaign and the filters for the deals in that campaign.
 In the bottom grid the deals are displayed along with the type and
 price. When selecting a deal, the details are displayed on the right.
 
-# Accepting Deals
+## Accepting Deals
 
 Now you can accept or decline the deal opened in the right panel until
 the campaign-budget is filled. Once the campaign-budget for this deal is
@@ -209,7 +209,7 @@ brand has 3 options approve, change or decline the content.
 When both influencer and brand have finally agreed on the content, the
 deal will be scheduled for publication.
 
-# Automation
+## Automation
 
 The Chirpley platform is an automated platform. Therefore, when deals
 are accepted by both parties, there's no need for any action on either
