@@ -42,7 +42,7 @@ On the Chirpley-platform you can be brand and influencer at the same time. The s
 
 ## Connect as Influencer
 
-For influencers a twitter-account needs to have a minimum of 100 followers and at least 20 own tweets. (retweets and replies are excluded) to be able to connect your Twitter) The moment you have connected your social-media account with the platform, our automated system calculates the value of your account based the content. In step 6 of the questionary, you'll find the results of this calculation and the pricing you can receive for your selected services. You're able to adjust these values by 10%.
+For influencers a twitter-account needs to have a minimum of 100 followers and at least 5 own tweets. (retweets and replies are excluded) to be able to connect your Twitter) The moment you have connected your social-media account with the platform, our automated system calculates the value of your account based the content. In step 6 of the questionary, you'll find the results of this calculation and the pricing you can receive for your selected services. You're able to adjust these values by 10%.
 
 Click on the Twitter icon and you will be presented with a questionary to connect your Twitter account to your Chirpley-account.
 
